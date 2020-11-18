@@ -1,6 +1,7 @@
 
 # testing code block
 import sqlite3 as dblite
+import matplotlib.pyplot as plt
 
 
 def show_table_columns(database:str,table:str):
@@ -132,5 +133,8 @@ def update_a_task(dbname:str,table_name=None,condition=None,variable="status"):
     conn.close()
 
 # plot progress of the achivements in a graph
+def plot_progress():
+    plt.plot([1,2,3,4],[1,4,2,3])
+
 
 
