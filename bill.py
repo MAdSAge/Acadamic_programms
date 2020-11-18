@@ -1,7 +1,7 @@
 
 # testing code block
 import sqlite3 as dblite
-import matplotlib.pyplot as plt
+import matplotlib
 
 
 def show_table_columns(database:str,table:str):
@@ -60,7 +60,7 @@ def add_a_task(dbname:str,are_you_cretaing_table=False):
     print("added vales")
 
 # to see all tasks in table
-def see_tasks(dbname:str,mode="print",table_name=None,condition=None):
+def see_tasks(dbname:str,table_name=None,condition=None,mode="print"):
     
     conn = dblite.connect(dbname)
     cur = conn.cursor()    
@@ -133,8 +133,13 @@ def update_a_task(dbname:str,table_name=None,condition=None,variable="status"):
     conn.close()
 
 # plot progress of the achivements in a graph
-def plot_progress():
-    plt.plot([1,2,3,4],[1,4,2,3])
+def plot_progress(dbname,table_name=None,condition=None):
+    scores={"NO":1,"YES":0,"FAIL":-1}
+    tabel=see_tasks(dbname,table_name,condition,mode="god")
+    data=[]
+    for row in tabel:
+        data.append(row[4])
+    print(data)
 
 
 
