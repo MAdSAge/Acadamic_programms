@@ -64,7 +64,7 @@ def see_tasks(dbname:str,table_name=None,condition=None,mode="print"):
     
     conn = dblite.connect(dbname)
     cur = conn.cursor()    
-    tables_list = cur.execute("SELECT name FROM sqlite_master WHERE type ='table' AND name NOT LIKE 'sqlite_%';")
+    tables_list = cur.execute("SELECT * FROM sqlite_master ;")
     for table in tables_list:
         print(table[0])
     if(table_name == None):
@@ -134,12 +134,23 @@ def update_a_task(dbname:str,table_name=None,condition=None,variable="status"):
 
 # plot progress of the achivements in a graph
 def plot_progress(dbname,table_name=None,condition=None):
-    scores={"NO":1,"YES":0,"FAIL":-1}
+    scores={"NOT":0,"YES":1,"FAIL":-1}
     tabel=see_tasks(dbname,table_name,condition,mode="god")
     data=[]
+    fin=0
     for row in tabel:
         data.append(row[4])
-    print(data)
+    for i in data:
+        pin = scores.get(i)
+        fin = pin+fin
+    print(fin)
+    ret = see_tasks(dbname,condition,mode="god")
+    print(str(ret))
+    
+    
+
+
+
 
 
 
