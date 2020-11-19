@@ -63,14 +63,12 @@ def add_a_task(dbname:str,are_you_cretaing_table=False):
 def see_tasks(dbname:str,table_name=None,condition=None,mode="print"):
     
     conn = dblite.connect(dbname)
-    cur = conn.cursor()    
-    tables_list = cur.execute("SELECT * FROM sqlite_master where type='table' and  ;")
-    for table in tables_list:
-        print(table[1])
-    if(table_name == None):
-        table_name = input("enter name of a table")
-    # x= show_table_columns(dbname,table_name)
-    # print(x)        
+    cur = conn.cursor()
+    if table_name == None:    
+        tables_list = cur.execute("SELECT * FROM sqlite_master where type='table' and  tbl_name!='sqlite_sequence';")
+        for table in tables_list:
+            print(table[1])
+        table_name = input("enter name of a table")        
     if(condition != None):
         cur.execute("select * from "+table_name+" where "+condition)
     else:
@@ -133,9 +131,9 @@ def update_a_task(dbname:str,table_name=None,condition=None,variable="status"):
     conn.close()
 
 # plot progress of the achivements in a graph
-def plot_progress(dbname,table_name=None,condition=None):
+def plot_progress(dbname,condition=None):
     scores={"NOT":0,"YES":1,"FAIL":-1}
-    tabel=see_tasks(dbname,table_name,condition,mode="god")
+    tabel=see_tasks(dbname,"pop",mode="god")
     data=[]
     fin=0
     for row in tabel:
@@ -143,8 +141,7 @@ def plot_progress(dbname,table_name=None,condition=None):
     for i in data:
         pin = scores.get(i)
         fin = pin+fin
-    print(fin)
-    ret = see_tasks(dbname,condition,mode="god")
+    ret = see_tasks(dbname,"pTracker",None,"god")
     print(str(ret))
     
     
