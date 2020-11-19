@@ -64,9 +64,9 @@ def see_tasks(dbname:str,table_name=None,condition=None,mode="print"):
     
     conn = dblite.connect(dbname)
     cur = conn.cursor()    
-    tables_list = cur.execute("SELECT * FROM sqlite_master ;")
+    tables_list = cur.execute("SELECT * FROM sqlite_master where type='table' and  ;")
     for table in tables_list:
-        print(table[0])
+        print(table[1])
     if(table_name == None):
         table_name = input("enter name of a table")
     # x= show_table_columns(dbname,table_name)
