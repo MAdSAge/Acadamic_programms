@@ -112,11 +112,11 @@ def del_unwanted_tasks(dbname:str,all:bool):
     
 # to update the details in tasks
 def update_a_task(dbname:str,table_name=None,condition=None,variable="status"):
+    if(table_name == None):
+        table_name = input("enter name of a table")
     see_tasks(dbname=dbname,table_name=table_name,condition=condition)
     conn = dblite.connect(dbname)
     cur = conn.cursor()
-    if(table_name == None):
-        table_name = input("enter name of a table")
     if(variable==None):
         variable=input("Select a task: \n"+str(show_table_columns(dbname,table_name)))
     while True:
@@ -130,7 +130,7 @@ def update_a_task(dbname:str,table_name=None,condition=None,variable="status"):
     cur.close()
     conn.close()
 
-# plot progress of the achivements in a graph
+#plot progress of the achivements in a graph
 def plot_progress(dbname,condition=None):
     scores={"NOT":0,"YES":1,"FAIL":-1}
     tabel=see_tasks(dbname,"pop",mode="god")
@@ -141,10 +141,13 @@ def plot_progress(dbname,condition=None):
     for i in data:
         pin = scores.get(i)
         fin = pin+fin
-    ret = see_tasks(dbname,"pTracker",None,"god")
+    ret = see_tasks(dbname,table_name="pTracker",condition=None,mode="god")
     print(str(ret))
-    
-    
+    #1. study python calender module with most perfection, try to write own calender module
+
+
+       
+
 
 
 
