@@ -1,770 +1,770 @@
-['1', '1931', '"3608"', '"Maharashtra Medical Council"', '"BHOYAR MISS PALLAVI GAJANAN"', 'null']
-['2', '1939', '"39439"', '"Punjab Medical Council"', '"Puneet Katuria"', '"Sh. Prem Sagar Kathuria"']
-['3', '1953', '"26609"', '"Medical Council of India"', '"singh gurpreet"', '"gurbax singh khadial"']
-['4', '1953', '"36375"', '"Bihar Medical Council"', '"Vishwa Mohan Kumar"', '"Late Ram Chandra Prasad Singh"']
-['5', '1953', '"G-36076"', '"Gujarat Medical Council"', '"NUS GOYAL BABITA GORALAL"', 'null']
-['6', '1957', '"6137"', '"Bihar Medical Council"', '"Md. Khurshidul Haque"', '"Masudul Haque"']
-['7', '1957', '"E.P.3437"', '"Punjab Medical Council"', '"SATIJA', ' YASH PAUL"', '"SHAM SINGH SATIJA"']
-['8', '1960', '"1"', '"Andhra Pradesh Medical Council"', '"Yellamraju Suryanarayanarao Seshachalam"', '"Y Seshachalam"']
-['9', '1960', '"1"', '"Bihar Medical Council"', '"Dutta Sashi Bhushan"', 'null']
-['10', '1960', '"1"', '"Hyderabad Medical Council"', '"Hyder Ali Khan Hazi"', '"Hakeem Dadie Ali Khan"']
-['11', '1960', '"1"', '"Maharashtra Medical Council"', '"Mcclure Robert Baird"', '"Dr. William Mcclure"']
-['12', '1960', '"1"', '"Rajasthan Medical Council"', '"Gnagwal Tara Chand"', '"L Hazarilal Gangwal"']
-['13', '1960', '"1"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Salvadore Christian Captain"', '"F Salvadort"']
-['14', '1960', '"1"', '"Vidharba Medical Council"', '"Bagherwal Krishna Dagdool"', '"Dagdool Rambax Bagherwal"']
-['15', '1960', '"10"', '"Assam Medical Council"', '"Das Kali Kumar"', 'null']
-['16', '1960', '"10"', '"Maharashtra Medical Council"', '"Laad Ramakant"', '"Dr. Mishri Lal Ram Charan Laad"']
-['17', '1960', '"10"', '"Mysore Medical Council"', '"Narasimha Iyengar K"', '"Keshavachar"']
-['18', '1960', '"10"', '"Orissa Council of Medical Registration"', '"Abedin Muhammad Zainul"', 'null']
-['19', '1960', '"10"', '"Rajasthan Medical Council"', '"Sharma Roopkishore"', '"Dr. Ram Prataji"']
-['20', '1960', '"10"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Madhusoodanan Sankaran"', '"Sankaran K"']
-['21', '1960', '"100"', '"Andhra Pradesh Medical Council"', '"Budhvarapu Krishna Rao"', '"Bk Sayanapantulu"']
-['22', '1960', '"100"', '"Assam Medical Council"', '"Majumder Surendra Chandra"', 'null']
-['23', '1960', '"100"', '"Bihar Medical Council"', '"Mukherjee Priya Nath"', 'null']
-['24', '1960', '"100"', '"Bombay Medical Council"', '"Poredi Ramchandra Shivaji"', 'null']
-['25', '1960', '"100"', '"Hyderabad Medical Council"', '"Ali Khan Abdul"', '"Nawab Latif Yarjung"']
-['26', '1960', '"100"', '"Madhya Pradesh Medical Council"', '"Ahuja N K"', '"M K Ahuja"']
-['27', '1960', '"100"', '"Rajasthan Medical Council"', '"Pandya Manohar Lal"', '"Pt Heeralal"']
-['28', '1960', '"100"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Padmanabha Pillai Kolasseril Iyappan P"', '"Iyappan Pillai"']
-['29', '1960', '"100"', '"Vidharba Medical Council"', '"Mishra Devendra Kumar"', '"Raghubir Prasad Mishra"']
-['30', '1960', '"100"', '"West Bengal Medical Council"', '"Bhaumik Nilkanta"', 'null']
-['31', '1960', '"1000"', '"Andhra Pradesh Medical Council"', '"Bonda Radha Krishna"', '"B Sankararao"']
-['32', '1960', '"1000"', '"Assam Medical Council"', '"Roy Sash Bhusan"', 'null']
-['33', '1960', '"1000"', '"Bihar Medical Council"', '"Mukherjee Arunoday"', 'null']
-['34', '1960', '"1000"', '"Bombay Medical Council"', '"Mehta Sorab Pherozshah"', 'null']
-['35', '1960', '"1000"', '"Hyderabad Medical Council"', '"Rayanchi Naga Bhushanam"', '"R Lingaiah"']
-['36', '1960', '"1000"', '"Mysore Medical Council"', '"Gundappa Malavalli Puttramaih"', '"B Puttaramaiah"']
-['37', '1960', '"1000"', '"Orissa Council of Medical Registration"', '"Bandhopadhyaya Haripada"', 'null']
-['38', '1960', '"1000"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Populose Kattadiyil Poulose"', '"Poulose"']
-['39', '1960', '"1000"', '"Uttar Pradesh Medical Council"', '"Bansikar Ram Narain"', '"Shiwamber Lal"']
-['40', '1960', '"1000"', '"West Bengal Medical Council"', '"Mandal Hrishikes"', 'null']
-['41', '1960', '"10000"', '"Bombay Medical Council"', '"Sharma Mrs. Lilavati Chandrakant"', 'null']
-['42', '1960', '"10000"', '"Madras Medical Council"', '"Taylor Ronald Yeldham Major"', '"H M Taylor"']
-['43', '1960', '"10000"', '"West Bengal Medical Council"', '"Biswas Asutosh"', 'null']
-['44', '1960', '"10001"', '"Bombay Medical Council"', '"Kale Mahadeo Yeshwant"', 'null']
-['45', '1960', '"10001"', '"Madras Medical Council"', '"Raghava Rao Gundumalla"', '"Narasimhaswamy"']
-['46', '1960', '"10002"', '"Bombay Medical Council"', '"Bhore Jayawant Narayan"', 'null']
-['47', '1960', '"10002"', '"Madras Medical Council"', '"Govindaswami Chinnaswami"', '"Chinnaswami"']
-['48', '1960', '"10002"', '"West Bengal Medical Council"', '"Baksi Bibhutibushan"', 'null']
-['49', '1960', '"10003"', '"Bombay Medical Council"', '"Gupta Gopal Das Lalubhai"', 'null']
-['50', '1960', '"10003"', '"Madras Medical Council"', '"Nabhiraja Ariga Padnoor"', '"P Padmaraja Ariga"']
-['51', '1960', '"10003"', '"West Bengal Medical Council"', '"Datta Rameshcahndra"', 'null']
-['52', '1960', '"10004"', '"Bombay Medical Council"', '"Desai Balvantrai Mani Nhai"', 'null']
-['53', '1960', '"10004"', '"Madras Medical Council"', '"Gnanam Miss. Rose Anna Mary"', '"S G Gnanam"']
-['54', '1960', '"10004"', '"West Bengal Medical Council"', '"Pal Dulal Chandra"', 'null']
-['55', '1960', '"10005"', '"Bombay Medical Council"', '"Pardasaney Sobhraj Nanikram"', 'null']
-['56', '1960', '"10005"', '"Madras Medical Council"', '"Sukumaran Krishnan"', '"Krishnan"']
-['57', '1960', '"10006"', '"Madras Medical Council"', '"Thaliath Miss. Lucy Joseph"', '"J Thaliath"']
-['58', '1960', '"10007"', '"Bombay Medical Council"', '"Bhopatkar Charuchandra Laxman"', 'null']
-['59', '1960', '"10007"', '"West Bengal Medical Council"', '"Mukhopadhyay Amulyaratan"', 'null']
-['60', '1960', '"10008"', '"Bombay Medical Council"', '"Mangaokar Kash Nath Vishnu"', 'null']
-['61', '1960', '"10008"', '"Madras Medical Council"', '"Ramchandra Nayak Sujir"', '"Vasudeva Nayak Sujire"']
-['62', '1960', '"10008"', '"West Bengal Medical Council"', '"Das Mohinmohan"', 'null']
-['63', '1960', '"10009"', '"Madras Medical Council"', '"Ranganadha Raju Mudumudi"', '"M Lakshmipathi Raju"']
-['64', '1960', '"10009"', '"West Bengal Medical Council"', '"Datta Debendramohan"', 'null']
-['65', '1960', '"1001"', '"Hyderabad Medical Council"', '"Hafeezuz Rahman"', '"Mohd Ali Shareef"']
-['66', '1960', '"1001"', '"Mysore Medical Council"', '"Abdul Aleem Holehonnur"', '"H Gulam Mustafa"']
-['67', '1960', '"1001"', '"Orissa Council of Medical Registration"', '"Pal Bibhutibhushan"', 'null']
-['68', '1960', '"1001"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Poulose Ktuttikatt Paul"', '"K J Paul"']
-['69', '1960', '"10010"', '"Bombay Medical Council"', '"Sheth Shantilal Natha Lal"', 'null']
-['70', '1960', '"10010"', '"Madras Medical Council"', '"Somanna Yenamandra"', '"Papayya Sastri"']
-['71', '1960', '"10010"', '"West Bengal Medical Council"', '"Bhattacharyya Satyabrata"', 'null']
-['72', '1960', '"10011"', '"Bombay Medical Council"', '"Kothari Kolatchand Jivraj"', 'null']
-['73', '1960', '"10011"', '"Madras Medical Council"', '"Anantaraman Krishnier"', '"Krishnier"']
-['74', '1960', '"10011"', '"West Bengal Medical Council"', '"Das Syamakanta"', 'null']
-['75', '1960', '"10012"', '"Bombay Medical Council"', '"Wadhwani Mrs. Kalavati Methram"', 'null']
-['76', '1960', '"10012"', '"Madras Medical Council"', '"Madhava Menon Kandayath"', '"Kunjunni Menon"']
-['77', '1960', '"10012"', '"West Bengal Medical Council"', '"Abdul Quasem"', 'null']
-['78', '1960', '"10013"', '"Bombay Medical Council"', '"Kulkarni Ramchandra Hanamant"', 'null']
-['79', '1960', '"10013"', '"Mysore Medical Council"', '"Papa Rao Chalssani"', '"C Kottayya"']
-['80', '1960', '"10013"', '"West Bengal Medical Council"', '"Basak Birendrakumar"', 'null']
-['81', '1960', '"10014"', '"Bombay Medical Council"', '"Biliangady Nandikeshwar Weerappa"', 'null']
-['82', '1960', '"10014"', '"Madras Medical Council"', '"Stephens Denzil Stanhope Bamford"', '"P H Stephens"']
-['83', '1960', '"10014"', '"West Bengal Medical Council"', '"Saha Haripada"', 'null']
-['84', '1960', '"10015"', '"Bombay Medical Council"', '"Gandhi Laxmindas Bhagawan Das"', 'null']
-['85', '1960', '"10015"', '"Madras Medical Council"', '"Gangaprasad Rana"', '"Ghanshyam Rana"']
-['86', '1960', '"10015"', '"West Bengal Medical Council"', '"Copeland Francis John"', 'null']
-['87', '1960', '"10016"', '"Bombay Medical Council"', '"Gandhi Bhogi Lal Prabhudas"', 'null']
-['88', '1960', '"10016"', '"Madras Medical Council"', '"Senthumadhava Rao Nimmagadda"', '"N Chalamayya"']
-['89', '1960', '"10016"', '"West Bengal Medical Council"', '"Bagchi Nareshchandra"', 'null']
-['90', '1960', '"10017"', '"Bombay Medical Council"', '"Vasavada Raghukant Kundan Lal"', 'null']
-['91', '1960', '"10017"', '"Madras Medical Council"', '"Arokiswamy Savarimutyu"', '"Savarimuthu"']
-['92', '1960', '"10017"', '"West Bengal Medical Council"', '"Bhatacharyya Dhirendranath"', 'null']
-['93', '1960', '"10018"', '"Bombay Medical Council"', '"Thacker Thakershi Atmaram"', 'null']
-['94', '1960', '"10018"', '"Madras Medical Council"', '"Sobhanadri Chaparala"', '"C Seetharamaswami"']
-['95', '1960', '"10019"', '"Bombay Medical Council"', '"Abdulpur Veerpa Veerabhadrappa"', 'null']
-['96', '1960', '"10019"', '"Madras Medical Council"', '"Enkataseetha Miss. Muktevi"', '"M Perumalliah"']
-['97', '1960', '"10019"', '"West Bengal Medical Council"', '"Sharma Chaitram"', 'null']
-['98', '1960', '"1002"', '"Andhra Pradesh Medical Council"', '"Muntha Nagarajasundara Murthy"', '"M Koteswara Rao"']
-['99', '1960', '"1002"', '"Hyderabad Medical Council"', '"Syed Abdus Samad"', '"Syed Abdus Saleem"']
-['100', '1960', '"1002"', '"Madras Medical Council"', '"Raja Rathinam John"', '"J Joshua"']
-['101', '1960', '"1002"', '"Mysore Medical Council"', '"Narasimha Murthy M S"', '"M Shama Rao"']
-['102', '1960', '"1002"', '"Orissa Council of Medical Registration"', '"Saha Bansimohan"', 'null']
-['103', '1960', '"1002"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Bharathan Vasudevan"', '"Vasudevan"']
-['104', '1960', '"1002"', '"West Bengal Medical Council"', '"Mitra Dhirendranath"', 'null']
-['105', '1960', '"10020"', '"Madras Medical Council"', '"Bal Saroop"', '"Dhaulat Ram Sud"']
-['106', '1960', '"10021"', '"Bombay Medical Council"', '"Dabholkar Shrikrishna Narayan"', 'null']
-['107', '1960', '"10021"', '"Madras Medical Council"', '"Rama Prasad Sauhta"', '"Sadhoo Ram"']
-['108', '1960', '"10021"', '"West Bengal Medical Council"', '"Mukhopadhyay Ajitkumar"', 'null']
-['109', '1960', '"10022"', '"Bombay Medical Council"', '"Sodha Mulji Mohanlal"', 'null']
-['110', '1960', '"10022"', '"Madras Medical Council"', '"Ramachandran Nataraja"', '"J Nataraja Iyer"']
-['111', '1960', '"10022"', '"West Bengal Medical Council"', '"Bid Saratchandara"', 'null']
-['112', '1960', '"10023"', '"Bombay Medical Council"', '"Chandananey Tirath Kimatrai"', 'null']
-['113', '1960', '"10023"', '"Madras Medical Council"', '"Venkatesan Mandakolathur Ramachandran"', '"Ms Ramachandran"']
-['114', '1960', '"10023"', '"West Bengal Medical Council"', '"Hore Himansubimal"', 'null']
-['115', '1960', '"10024"', '"Bombay Medical Council"', '"Shah Ghanshyam Baldevdas"', 'null']
-['116', '1960', '"10024"', '"Madras Medical Council"', '"Savarimuthu Daniel David"', '"Savarimuthu"']
-['117', '1960', '"10024"', '"West Bengal Medical Council"', '"Ghoshal Ganeshchandra"', 'null']
-['118', '1960', '"10025"', '"Bombay Medical Council"', '"Saraiya Jayanti Lal Manilal"', 'null']
-['119', '1960', '"10025"', '"Madras Medical Council"', '"Subhadra Devi Miss. G"', '"G Venkat Rao"']
-['120', '1960', '"10026"', '"Bombay Medical Council"', '"Shah Maneklal Gulab Chand"', 'null']
-['121', '1960', '"10026"', '"Madras Medical Council"', '"Samuel Miss. Sophia John"', '"J Samuel"']
-['122', '1960', '"10026"', '"West Bengal Medical Council"', '"Chaudhuri Sambhu Nath"', 'null']
-['123', '1960', '"10027"', '"Bombay Medical Council"', '"Kothapalli Narasimaha Reddy"', '"Kothappalli Ramachandra Reddy K D A"']
-['124', '1960', '"10027"', '"Madras Medical Council"', '"Abraham Allimuttil Paul"', '"A A Paul"']
-['125', '1960', '"10027"', '"West Bengal Medical Council"', '"Pal Rabindra Nath"', 'null']
-['126', '1960', '"10028"', '"Bombay Medical Council"', '"Mendha Prabhudas Kanji Bhai"', 'null']
-['127', '1960', '"10028"', '"Madras Medical Council"', '"Brundaban Chandradas"', '"Dinabandhu Das"']
-['128', '1960', '"10028"', '"West Bengal Medical Council"', '"Chattoraj Radha Nath"', 'null']
-['129', '1960', '"10029"', '"Bombay Medical Council"', '"Champaneri Manilal Purushottamdas"', 'null']
-['130', '1960', '"10029"', '"Madras Medical Council"', '"Grant Willoughby Gordon"', '"A Grant"']
-['131', '1960', '"10029"', '"West Bengal Medical Council"', '"Raha Nanigopal"', 'null']
-['132', '1960', '"1003"', '"Andhra Pradesh Medical Council"', '"Tulugu Krishnamurthy"', '"T Venkatappala Naidu"']
-['133', '1960', '"1003"', '"Assam Medical Council"', '"Ahmed Akhtaruddin"', 'null']
-['134', '1960', '"1003"', '"Bihar Medical Council"', '"Sen Gupta Debendra Nath"', 'null']
-['135', '1960', '"1003"', '"Hyderabad Medical Council"', '"Soanker Kishen Rao"', '"Gopal Rao Soanker"']
-['136', '1960', '"1003"', '"Mysore Medical Council"', '"Raghavan Bindiganavale"', '"B Garudachar"']
-['137', '1960', '"1003"', '"Orissa Council of Medical Registration"', '"Ray Amalendu"', 'null']
-['138', '1960', '"1003"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Dhas J K"', '"Kjarunakaran"']
-['139', '1960', '"10030"', '"Bombay Medical Council"', '"Karnarkar Mrs. Pushpa Manohar"', 'null']
-['140', '1960', '"10030"', '"Madras Medical Council"', '"Gokul Chand Deedwaniyan"', '"D Lachmi Narain"']
-['141', '1960', '"10030"', '"West Bengal Medical Council"', '"Ray Chaudhuri Subodhchandra"', 'null']
-['142', '1960', '"10031"', '"Bombay Medical Council"', '"Bhatt Mrs. Jyotsna Rajendra"', 'null']
-['143', '1960', '"10031"', '"Madras Medical Council"', '"Kamalnayan Tambar"', '"T Ramachandra"']
-['144', '1960', '"10031"', '"West Bengal Medical Council"', '"Chakrabarti Bimalapada"', 'null']
-['145', '1960', '"10032"', '"Bombay Medical Council"', '"Haqquani Syed Abdul Hafez"', 'null']
-['146', '1960', '"10032"', '"Madras Medical Council"', '"Pardhy Anand Krishna"', '"Parhdy Krishna Moreshwar"']
-['147', '1960', '"10032"', '"West Bengal Medical Council"', '"Chaudhuri Amulyagopal"', 'null']
-['148', '1960', '"10033"', '"Madras Medical Council"', '"Ramamurti Vepa"', '"Vepa S B V Kamesam"']
-['149', '1960', '"10033"', '"West Bengal Medical Council"', '"Das Binayendranath B A"', 'null']
-['150', '1960', '"10034"', '"Bombay Medical Council"', '"Bopardikar Dattatraya Vishnu"', 'null']
-['151', '1960', '"10034"', '"Madras Medical Council"', '"Mohan Singh"', '"S Pradhan Singh"']
-['152', '1960', '"10035"', '"Bombay Medical Council"', '"Babre Madhusudan Sakharani"', 'null']
-['153', '1960', '"10035"', '"Madras Medical Council"', '"Sarkar Himansu Kumar"', '"Sarcar Indunath"']
-['154', '1960', '"10035"', '"West Bengal Medical Council"', '"Mandal Krishnapada"', 'null']
-['155', '1960', '"10036"', '"Madras Medical Council"', '"Oliver Miss. Rhona Maud"', '"Stuart Oliver"']
-['156', '1960', '"10036"', '"West Bengal Medical Council"', '"Sarkar Jagadishchandra"', 'null']
-['157', '1960', '"10037"', '"Bombay Medical Council"', '"Gune Janardan Gangadhar"', 'null']
-['158', '1960', '"10037"', '"Madras Medical Council"', '"Viswanathan Shetty Abbettu"', '"A Manjayya Shetty"']
-['159', '1960', '"10037"', '"West Bengal Medical Council"', '"Muhammad Hussain"', 'null']
-['160', '1960', '"10038"', '"Bombay Medical Council"', '"Gupta Sohan Lal Mannalal"', 'null']
-['161', '1960', '"10038"', '"Madras Medical Council"', '"Pal Satyendra Nath"', '"Trailakaya Nath Paul"']
-['162', '1960', '"10038"', '"West Bengal Medical Council"', '"Gangopadhyay Dhirendra Nath"', 'null']
-['163', '1960', '"10039"', '"Bombay Medical Council"', '"Tanna Morarji Bhavan"', 'null']
-['164', '1960', '"10039"', '"Madras Medical Council"', '"Ramalingaswami Vulimiri"', '"Gumpaswami Vulimiri"']
-['165', '1960', '"10039"', '"West Bengal Medical Council"', '"Das Annadacharan"', 'null']
-['166', '1960', '"1004"', '"Andhra Pradesh Medical Council"', '"Vaddiparthi Leelavathi"', '"B A Kameswara Rao"']
-['167', '1960', '"1004"', '"Assam Medical Council"', '"Gibson David"', 'null']
-['168', '1960', '"1004"', '"Bihar Medical Council"', '"Sahai Krishnanandan"', 'null']
-['169', '1960', '"1004"', '"Hyderabad Medical Council"', '"Pamanappa Veerabhadrappa Misal"', '"Pemanappa Misala"']
-['170', '1960', '"1004"', '"Madras Medical Council"', '"Ganapati Ayyar Kondangudi"', '"K Muttuswami Ayyar"']
-['171', '1960', '"1004"', '"Mysore Medical Council"', '"Ayodhyanath Naib Subba Rao"', '"Naib Subba Rao"']
-['172', '1960', '"1004"', '"Orissa Council of Medical Registration"', '"Ray Naliniprabha"', 'null']
-['173', '1960', '"1004"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Abraham Benjamin"', '"Late Benjamin Mathew"']
-['174', '1960', '"10040"', '"Bombay Medical Council"', '"Bhandary Adekal Bainky"', 'null']
-['175', '1960', '"10040"', '"Madras Medical Council"', '"Kuppurajan Nagavedu Balasundaram"', '"Balasundaram Nagavedu Krishnaswami"']
-['176', '1960', '"10040"', '"West Bengal Medical Council"', '"Das Sukumar"', 'null']
-['177', '1960', '"10041"', '"Bombay Medical Council"', '"Yadu Brijnandan Singh"', 'null']
-['178', '1960', '"10041"', '"Madras Medical Council"', '"Malins Robert Nuttal"', '"Malins Reobert Christy"']
-['179', '1960', '"10041"', '"West Bengal Medical Council"', '"Jana Praphullakumar"', 'null']
-['180', '1960', '"10042"', '"Bombay Medical Council"', '"Shahane Wasudeo Raghunath"', 'null']
-['181', '1960', '"10042"', '"Madras Medical Council"', '"Vijaya Raghavan Ramanujam"', '"S Ramanujam"']
-['182', '1960', '"10042"', '"West Bengal Medical Council"', '"De Gadadhar"', 'null']
-['183', '1960', '"10043"', '"Bombay Medical Council"', '"Bheda Shankerlal Kanhaiya Lal"', 'null']
-['184', '1960', '"10043"', '"Madras Medical Council"', '"Verghese George Puthenveeti"', '"P V George"']
-['185', '1960', '"10043"', '"West Bengal Medical Council"', '"De Souza Antonio George"', 'null']
-['186', '1960', '"10044"', '"Bombay Medical Council"', '"Bhonde Manohar Damodar"', 'null']
-['187', '1960', '"10044"', '"Madras Medical Council"', '"Krishnamurti Subrahmanyam"', '"Dr. K S Subramanyam"']
-['188', '1960', '"10044"', '"West Bengal Medical Council"', '"Ray Satyendraprasad"', 'null']
-['189', '1960', '"10045"', '"Bombay Medical Council"', '"Ghualati Satish Chandra Sunderdass"', 'null']
-['190', '1960', '"10045"', '"Madras Medical Council"', '"Balakrishna Reddi Mukalapati"', '"N Venkatwarlu Reddy"']
-['191', '1960', '"10045"', '"West Bengal Medical Council"', '"Saha Rameschandra"', 'null']
-['192', '1960', '"10046"', '"Bombay Medical Council"', '"Bhatt Mahesh Kumar Shriprasad"', 'null']
-['193', '1960', '"10046"', '"Madras Medical Council"', '"Rajagopalan Krishnamachari"', '"R Krishnamachari"']
-['194', '1960', '"10046"', '"West Bengal Medical Council"', '"Basu Bimalchhandra"', 'null']
-['195', '1960', '"10047"', '"Bombay Medical Council"', '"Solanki Teekaram"', 'null']
-['196', '1960', '"10047"', '"West Bengal Medical Council"', '"Gangopadhyay Sadananda"', 'null']
-['197', '1960', '"10048"', '"Madras Medical Council"', '"Naryanaswmi Thangavelu"', 'null']
-['198', '1960', '"10048"', '"West Bengal Medical Council"', '"Chakrabarti Lalitmohan"', 'null']
-['199', '1960', '"10049"', '"Bombay Medical Council"', '"Gidwani Mrs. Mohini Harkrishin"', 'null']
-['200', '1960', '"10049"', '"Madras Medical Council"', '"Ratnaswami Ramaswmi"', '"R Ramaswamy Mudaliyar"']
-['201', '1960', '"10049"', '"West Bengal Medical Council"', '"Pradhan Gundhar"', 'null']
-['202', '1960', '"1005"', '"Andhra Pradesh Medical Council"', '"Titty Rama Rao"', '"T Balaramaiah"']
-['203', '1960', '"1005"', '"Assam Medical Council"', '"Bardalai Umesh Chandra"', 'null']
-['204', '1960', '"1005"', '"Hyderabad Medical Council"', '"Verkantham Narayan Reddy"', '"Varkantham Balreddy"']
-['205', '1960', '"1005"', '"Mysore Medical Council"', '"Basava Raj Urs B R"', '"B R Rudaraj Urs"']
-['206', '1960', '"1005"', '"Orissa Council of Medical Registration"', '"Narayan Pisharoti Kallenkari"', 'null']
-['207', '1960', '"1005"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Raman Thevan"', '"Thevan"']
-['208', '1960', '"10050"', '"Bombay Medical Council"', '"Kapadia Miss. Indira Bhogi Lal"', 'null']
-['209', '1960', '"10050"', '"Madras Medical Council"', '"Sundaram Venkatarama"', '"M Venkata Ramayya"']
-['210', '1960', '"10050"', '"West Bengal Medical Council"', '"Ghosh Kanailal"', 'null']
-['211', '1960', '"10051"', '"Bombay Medical Council"', '"Redkar Ramakant Bhagawant"', 'null']
-['212', '1960', '"10051"', '"Madras Medical Council"', '"Ramachandran Madras Subrahmanya Ayyar"', '"Rao Sahib J R Subrahmanya Ayyar"']
-['213', '1960', '"10052"', '"Madras Medical Council"', '"Seshachary Tlirupati Komandur"', '"T K L Narasimhachary"']
-['214', '1960', '"10052"', '"West Bengal Medical Council"', '"Pramanik Aswinikumar"', 'null']
-['215', '1960', '"10053"', '"Bombay Medical Council"', '"Vyawahare Ramchandra Ranganath"', 'null']
-['216', '1960', '"10053"', '"Madras Medical Council"', '"Roe Terrence Noel Cyril"', '"Roe Terrence Cyril Michael"']
-['217', '1960', '"10053"', '"West Bengal Medical Council"', '"Syed Mozammuel Hossain"', 'null']
-['218', '1960', '"10054"', '"Madras Medical Council"', '"Qttamann Edmond Walter"', '"Ottamann Gerald Walter"']
-['219', '1960', '"10055"', '"Bombay Medical Council"', '"Nahar Mohanlal Lakshmichand"', 'null']
-['220', '1960', '"10055"', '"Madras Medical Council"', '"Subbarathnam Coimbatore Ramaswamy"', '"C S Ramaswamy Iyer"']
-['221', '1960', '"10055"', '"West Bengal Medical Council"', '"Chakrabarti Amulyakanta"', 'null']
-['222', '1960', '"10056"', '"Madras Medical Council"', '"Raghavan Apasamy"', '"S Appasmy Iyengar"']
-['223', '1960', '"10057"', '"Bombay Medical Council"', '"Gune Srivasta Mahadeo"', 'null']
-['224', '1960', '"10057"', '"Madras Medical Council"', '"Anantan Nair Puthenvittil"', '"Kunhappa Nair"']
-['225', '1960', '"10057"', '"West Bengal Medical Council"', '"Sood R P"', '"Ramprasad"']
-['226', '1960', '"10058"', '"Madras Medical Council"', '"Rajendra Rao Yalmanchi"', '"Y Venkayya"']
-['227', '1960', '"10058"', '"West Bengal Medical Council"', '"Bandhopadhyaya Harendranath"', 'null']
-['228', '1960', '"10059"', '"Bombay Medical Council"', '"Thakur Mohanlal Fulji"', 'null']
-['229', '1960', '"10059"', '"Madras Medical Council"', '"Bhaskar Reddi Cheemalavagupalli"', '"C Balaranga Reddy"']
-['230', '1960', '"10059"', '"West Bengal Medical Council"', '"Bandhopadhyaya Haripada"', 'null']
-['231', '1960', '"1006"', '"Andhra Pradesh Medical Council"', '"Killampalli Brahmanand Rao"', '"K Vallabha Rao"']
-['232', '1960', '"1006"', '"Assam Medical Council"', '"Rahaman Nuru"', 'null']
-['233', '1960', '"1006"', '"Bombay Medical Council"', '"Husain Ibrahim Abdul"', 'null']
-['234', '1960', '"1006"', '"Hyderabad Medical Council"', '"Hoskar Setu Ram Rao"', '"Advi Rao Hosker"']
-['235', '1960', '"1006"', '"Madras Medical Council"', '"D`Vaz Henry Philip"', '"J A D`Vaz"']
-['236', '1960', '"1006"', '"Mysore Medical Council"', '"Ramanuja Iyengar H V"', '"H S Venkata Ranga Iyengar"']
-['237', '1960', '"1006"', '"Orissa Council of Medical Registration"', '"Basu Santosh Kumar"', 'null']
-['238', '1960', '"1006"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Abraham Mosses"', '"Rev Fr Moses V I"']
-['239', '1960', '"10060"', '"Bombay Medical Council"', '"Ankalikar Vishwanath Pandurangarao"', 'null']
-['240', '1960', '"10060"', '"Madhya Pradesh Medical Council"', '"Gupta Bankat Lal"', '"Anandilal Gupta"']
-['241', '1960', '"10060"', '"Madras Medical Council"', '"Surya Narayan Kopparty"', '"K Ramachandra Rao"']
-['242', '1960', '"10061"', '"Bombay Medical Council"', '"Shah Ramnalal Chunilal"', 'null']
-['243', '1960', '"10061"', '"Madras Medical Council"', '"Gopalakrishnayya Lingam"', '"L Satyanarayana"']
-['244', '1960', '"10061"', '"West Bengal Medical Council"', '"Sallu M Obadiah"', 'null']
-['245', '1960', '"10062"', '"Bombay Medical Council"', '"Mohammad Quasim Ali"', 'null']
-['246', '1960', '"10062"', '"Madras Medical Council"', '"D`Costa Roche Frances"', '"C M D`Costa"']
-['247', '1960', '"10062"', '"West Bengal Medical Council"', '"Mal Manmathanath"', 'null']
-['248', '1960', '"10063"', '"Madras Medical Council"', '"Gideon Hubert Babu"', '"L Gideon"']
-['249', '1960', '"10063"', '"West Bengal Medical Council"', '"Sur Lalitkumar"', 'null']
-['250', '1960', '"10064"', '"Bombay Medical Council"', '"Patel Lalitbhai Morarrji"', 'null']
-['251', '1960', '"10064"', '"Madras Medical Council"', '"Azizullah Mohammed Shariff"', '"Mohammed Shariff"']
-['252', '1960', '"10064"', '"West Bengal Medical Council"', '"Indra Kala Chand"', 'null']
-['253', '1960', '"10065"', '"Bombay Medical Council"', '"Dodial Mani Lal Jagjivam"', 'null']
-['254', '1960', '"10065"', '"Madras Medical Council"', '"Durgiah Nagella"', '"N Venkanna Devar"']
-['255', '1960', '"10065"', '"West Bengal Medical Council"', '"Saha Jogendrakumar"', 'null']
-['256', '1960', '"10066"', '"Bombay Medical Council"', '"Thakar Kundan Lal Ramkrishna"', 'null']
-['257', '1960', '"10066"', '"Madras Medical Council"', '"Sivaiya Mulbagal"', '"M Nanjunadappa"']
-['258', '1960', '"10066"', '"West Bengal Medical Council"', '"Ghoshal Tinkari"', 'null']
-['259', '1960', '"10067"', '"Bombay Medical Council"', '"Sharma Pinakey Prasad"', 'null']
-['260', '1960', '"10067"', '"Madras Medical Council"', '"Balasubramanian Somasundranadar"', '"S Somasundarandar"']
-['261', '1960', '"10067"', '"West Bengal Medical Council"', '"Mafizuddin Sakar"', 'null']
-['262', '1960', '"10068"', '"Bombay Medical Council"', '"Vartak Miss. Durga Mahadeo"', 'null']
-['263', '1960', '"10068"', '"Madras Medical Council"', '"Subrahmaniam Madurai Viswanathan"', '"K S Viswanathan"']
-['264', '1960', '"10069"', '"Bombay Medical Council"', '"Mokashi Miss. Shalini Vithal"', 'null']
-['265', '1960', '"10069"', '"Madras Medical Council"', '"Ethirajulu Galla"', '"Subbarayudu"']
-['266', '1960', '"10069"', '"West Bengal Medical Council"', '"Md Yousuffali Miah"', 'null']
-['267', '1960', '"1007"', '"Andhra Pradesh Medical Council"', '"Desai Viswantha Reddi"', 'null']
-['268', '1960', '"1007"', '"Assam Medical Council"', '"Quadir Abdul"', 'null']
-['269', '1960', '"1007"', '"Bihar Medical Council"', '"Ghohs Radhika Prasad"', 'null']
-['270', '1960', '"1007"', '"Hyderabad Medical Council"', '"Mirza Khasim Ali"', '"Mirza Parwarish Ali Baig"']
-['271', '1960', '"1007"', '"Mysore Medical Council"', '"Lakshminarasimha Murthy Rao D"', '"D B Narasimbamurthy Rao"']
-['272', '1960', '"1007"', '"Orissa Council of Medical Registration"', '"Dei Jyotsnamayee"', 'null']
-['273', '1960', '"1007"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Ramachandran Kunjathan"', '"Kunjathan"']
-['274', '1960', '"10070"', '"Bombay Medical Council"', '"Purohit Gopi Nath"', 'null']
-['275', '1960', '"10070"', '"Madras Medical Council"', '"Venkata Subba Rao Koduri"', '"Sambasivudu"']
-['276', '1960', '"10070"', '"West Bengal Medical Council"', '"Gangopadhyay Prabodhchandra"', 'null']
-['277', '1960', '"10071"', '"Bombay Medical Council"', '"Mehta Harkisondas Tribhovan Das"', 'null']
-['278', '1960', '"10071"', '"Madras Medical Council"', '"Balakrishnan Munnany"', '"K M Kunhiraman Nayar"']
-['279', '1960', '"10071"', '"West Bengal Medical Council"', '"Basu Santosh Kumar"', 'null']
-['280', '1960', '"10072"', '"Madras Medical Council"', '"Jacob Emmatty Rappai"', '"D L Rappai"']
-['281', '1960', '"10072"', '"West Bengal Medical Council"', '"Srivastava Durgaprasad"', 'null']
-['282', '1960', '"10073"', '"Bombay Medical Council"', '"Dave Morlidhar Narayan"', 'null']
-['283', '1960', '"10073"', '"Madras Medical Council"', '"Vijaya Raghavan Raman Thandassery"', '"T Raman"']
-['284', '1960', '"10073"', '"West Bengal Medical Council"', '"Basu Tulsicharan"', 'null']
-['285', '1960', '"10074"', '"Madras Medical Council"', '"Raja Ram Mohan Rao Kommareddi"', '"Satyanarayanamurthy"']
-['286', '1960', '"10074"', '"West Bengal Medical Council"', '"Ray Syakmchand"', 'null']
-['287', '1960', '"10075"', '"Bombay Medical Council"', '"Chatpar Parmanand Jethanand"', 'null']
-['288', '1960', '"10075"', '"Madras Medical Council"', '"Jayanarasimhalu Thummulakunta"', '"T Narasimbalu Chetty"']
-['289', '1960', '"10076"', '"Bombay Medical Council"', '"Datta Nagendra Nath"', 'null']
-['290', '1960', '"10076"', '"Madras Medical Council"', '"Subba Rao Varanasi Venkata"', '"V Ramabrahamam"']
-['291', '1960', '"10076"', '"West Bengal Medical Council"', '"Sinha Madhusudan"', 'null']
-['292', '1960', '"10077"', '"Bombay Medical Council"', '"Gupta Gopal Krishna"', 'null']
-['293', '1960', '"10077"', '"Madras Medical Council"', '"Khursheed Ara Begum"', '"Mohdayood Khan"']
-['294', '1960', '"10078"', '"Bombay Medical Council"', '"Bandhopadhyaya Paritoshkukmar"', 'null']
-['295', '1960', '"10078"', '"Madras Medical Council"', '"Rama Rao Kotamarti"', '"K Achutaramaiah"']
-['296', '1960', '"10079"', '"Bombay Medical Council"', '"Hadkar Miss. Sumati Ganesh"', 'null']
-['297', '1960', '"10079"', '"Madras Medical Council"', '"Rajvalakshmi Guntur"', '"G Thirupathi Rao"']
-['298', '1960', '"10079"', '"West Bengal Medical Council"', '"Chaudhuri Taraksas"', 'null']
-['299', '1960', '"1008"', '"Andhra Pradesh Medical Council"', '"Pallapati Pranbhakara Raju"', '"P Raju"']
-['300', '1960', '"1008"', '"Bihar Medical Council"', '"Rasheed Abdul"', 'null']
-['301', '1960', '"1008"', '"Hyderabad Medical Council"', '"Bansi Lal Panhani"', '"K M Ramlal"']
-['302', '1960', '"1008"', '"Mysore Medical Council"', '"Saldhana J A M"', '"Salvadore Anthony Saldhana"']
-['303', '1960', '"1008"', '"Orissa Council of Medical Registration"', '"Kar Rohin Nandan"', 'null']
-['304', '1960', '"1008"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Parameshwaran Raamalingier"', '"R Ramalinga Iyer"']
-['305', '1960', '"1008"', '"Uttar Pradesh Medical Council"', '"Ganguli Radha Raman"', '"Priya Nath Gangopadhyay"']
-['306', '1960', '"10080"', '"Bombay Medical Council"', '"Bhatt Miss. Mahashweta Vithalray"', 'null']
-['307', '1960', '"10080"', '"Madras Medical Council"', '"Sarla Devi Padmanabhan"', '"Dr. C K Padmanabhan"']
-['308', '1960', '"10080"', '"West Bengal Medical Council"', '"Ghosh Poanchkari"', 'null']
-['309', '1960', '"10081"', '"Bombay Medical Council"', '"Trivedi Vishwanath Narayan"', 'null']
-['310', '1960', '"10081"', '"Madras Medical Council"', '"Krishnan Sanaranayanan"', '"K Sankaranarayanan Pillai"']
-['311', '1960', '"10081"', '"West Bengal Medical Council"', '"Mukhopadhyay Indubhushan"', 'null']
-['312', '1960', '"10082"', '"Bombay Medical Council"', '"Senjit Mrs. Malti Motiram"', 'null']
-['313', '1960', '"10082"', '"Madras Medical Council"', '"D`Netto Trevor Boniface"', '"D`Netto Bonifacde"']
-['314', '1960', '"10082"', '"West Bengal Medical Council"', '"Ray Chandra Kanta"', 'null']
-['315', '1960', '"10083"', '"Madras Medical Council"', '"Ramachandran Subrahmanyam"', '"B A Subrahmanyam Chettiar"']
-['316', '1960', '"10083"', '"West Bengal Medical Council"', '"Saha Binaykrishna"', 'null']
-['317', '1960', '"10084"', '"Madras Medical Council"', '"Krishnaswami Krishna Varachari"', '"K Varadachari"']
-['318', '1960', '"10084"', '"West Bengal Medical Council"', '"Nandi Becha Ram B Sc"', 'null']
-['319', '1960', '"10085"', '"Madras Medical Council"', '"Mohan Das Pai Kochikar"', '"Padmanabha Pai"']
-['320', '1960', '"10085"', '"West Bengal Medical Council"', '"Chattopadhyay Nitindranath"', 'null']
-['321', '1960', '"10086"', '"Madras Medical Council"', '"Lakshmi Narayanan Vaiganellore Naganathan"', '"Dr. V V Naganathan"']
-['322', '1960', '"10086"', '"West Bengal Medical Council"', '"Ray Barindranath"', 'null']
-['323', '1960', '"10087"', '"Bombay Medical Council"', '"Vaidya Malati Mrs. Madhav"', 'null']
-['324', '1960', '"10087"', '"Madras Medical Council"', '"Toayuman Rajoo"', '"Dr. T D Rajoo"']
-['325', '1960', '"10087"', '"West Bengal Medical Council"', '"Saha Hemendrakumar"', 'null']
-['326', '1960', '"10088"', '"Bombay Medical Council"', '"Shah Chhota Lal Bhaichand"', 'null']
-['327', '1960', '"10088"', '"Madras Medical Council"', '"Sundaravenkatakrisnan Subramania Ayyar"', '"A Subrmania Ayar"']
-['328', '1960', '"10089"', '"Bombay Medical Council"', '"Razdon Manmohan"', 'null']
-['329', '1960', '"10089"', '"Madras Medical Council"', '"Ranganayaki Mrs. Jayaraman"', '"Ms Srinivasan"']
-['330', '1960', '"10089"', '"West Bengal Medical Council"', '"Gupta Bimalapati"', 'null']
-['331', '1960', '"1009"', '"Andhra Pradesh Medical Council"', '"Mithilesh Buddavarapu"', '"B Paparaju"']
-['332', '1960', '"1009"', '"Assam Medical Council"', '"Sengupta Promode Ranjan"', 'null']
-['333', '1960', '"1009"', '"Hyderabad Medical Council"', '"Bindiganavali Krishna Iyengar"', '"B Krishna Iyengar"']
-['334', '1960', '"1009"', '"Mysore Medical Council"', '"Siddaiah Subbaiah"', '"Malige Subbaiah"']
-['335', '1960', '"1009"', '"Orissa Council of Medical Registration"', '"Bhattacharyya Krishnajiban"', 'null']
-['336', '1960', '"1009"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Bhaskaran Paraprath Madayambiath"', '"P K Anandan"']
-['337', '1960', '"10090"', '"Bombay Medical Council"', '"Anklesaria Rustomji Dhanjisha Edalji"', 'null']
-['338', '1960', '"10090"', '"Madras Medical Council"', '"Ishwariah Miss. Florence Suhasini"', '"W M Ishwariah"']
-['339', '1960', '"10090"', '"West Bengal Medical Council"', '"Saha Satkari"', 'null']
-['340', '1960', '"10091"', '"Bombay Medical Council"', '"Vyas Ratilal T Rambaklal"', 'null']
-['341', '1960', '"10091"', '"Madras Medical Council"', '"Sundareswara Ayyar Harihara Ayyar"', '"V Harihara Ayyar"']
-['342', '1960', '"10092"', '"Madras Medical Council"', '"Balaguruswami Subramania Nadar"', '"R Subramaania Nadar"']
-['343', '1960', '"10092"', '"West Bengal Medical Council"', '"Pande Surendralal"', 'null']
-['344', '1960', '"10093"', '"Madras Medical Council"', '"Muhammad Oosman"', '"M Mukthum Sahib"']
-['345', '1960', '"10094"', '"Madras Medical Council"', '"Radha Krishna Shenoy Ranjal"', '"V V Shenoy"']
-['346', '1960', '"10094"', '"West Bengal Medical Council"', '"Datta Rampada"', 'null']
-['347', '1960', '"10095"', '"Madras Medical Council"', '"Sarojini Mrs. Nair Villambil"', '"Mg Nair"']
-['348', '1960', '"10095"', '"West Bengal Medical Council"', '"Gupta Bimalendu"', 'null']
-['349', '1960', '"10096"', '"Madras Medical Council"', '"Ramamurti Pennathur"', '"Captain. P Krishnaswami"']
-['350', '1960', '"10096"', '"West Bengal Medical Council"', '"Fazlur Rahman"', 'null']
-['351', '1960', '"10097"', '"Madras Medical Council"', '"Srinivasan Venkataramana Iyerudamalpet"', '"U S Venkattaramana Iyer"']
-['352', '1960', '"10098"', '"Madras Medical Council"', '"Rmakrishna Getuty"', '"G Venkatapathy Naidu"']
-['353', '1960', '"10098"', '"West Bengal Medical Council"', '"Maitra Maniklal"', 'null']
-['354', '1960', '"10099"', '"Madras Medical Council"', '"Muhammad Ghouse Mohi - Ud - Din"', '"Ghulam Muhammad"']
-['355', '1960', '"100/RR"', '"Bombay Medical Council"', '"Krishnaswamy Kamkuduthavanitham Santhana"', 'null']
-['356', '1960', '"101"', '"Andhra Pradesh Medical Council"', '"Julure Krishna Rao Venkata"', '"Venkata Ramayya"']
-['357', '1960', '"101"', '"Madhya Pradesh Medical Council"', '"Pahwa P N"', '"J N Pahwa"']
-['358', '1960', '"101"', '"Mysore Medical Council"', '"Ramaswamy M S"', '"Mysore Sreenivasaiyengar"']
-['359', '1960', '"101"', '"Rajasthan Medical Council"', '"Mathur Govind Lal"', '"Ganeshi Lal"']
-['360', '1960', '"101"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"George Puthenpurackal Chacko"', '"Chacko"']
-['361', '1960', '"1010"', '"Andhra Pradesh Medical Council"', '"Kandeput Krishna Sastri Venkata"', '"K Subramanayam L M P"']
-['362', '1960', '"1010"', '"Hyderabad Medical Council"', '"Bhargawa Kailash Nath Rai"', '"Rai Baijnath Bhargawa"']
-['363', '1960', '"1010"', '"Madras Medical Council"', '"Surya Narayana Nayudu Ancucoory"', '"A Swami Nayudu"']
-['364', '1960', '"1010"', '"Mysore Medical Council"', '"Mahomed Jaffer A"', '"Hakkim Alipeer Sahib"']
-['365', '1960', '"1010"', '"Orissa Council of Medical Registration"', '"Mukhopadhyay Sambhu Nath"', 'null']
-['366', '1960', '"1010"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Lalitha Kesavan"', '"C O Kesavan"']
-['367', '1960', '"10100"', '"Bombay Medical Council"', '"Pandya Bhaishanker Harjivan"', 'null']
-['368', '1960', '"10100"', '"Madras Medical Council"', '"Ramasubrahmanyan Anantanarayananan"', '"Dr. A L Anantanarayanan"']
-['369', '1960', '"10100"', '"West Bengal Medical Council"', '"Dattagupta Makhanlal"', 'null']
-['370', '1960', '"10101"', '"Bombay Medical Council"', '"Mani Valanjatil Mani"', 'null']
-['371', '1960', '"10101"', '"Madras Medical Council"', '"Chandrasekharan Kalayambathur Sunder Raj"', '"K R Sunder Raja"']
-['372', '1960', '"10102"', '"Bombay Medical Council"', '"Mathakai Kanti Lal Harjivan"', 'null']
-['373', '1960', '"10102"', '"Madras Medical Council"', '"Surya Narayana Renduchintala"', '"Subba Rao"']
-['374', '1960', '"10103"', '"Bombay Medical Council"', '"Dhruva Harshad Ray Bapalal"', 'null']
-['375', '1960', '"10103"', '"Madras Medical Council"', '"Sriraman Jayanti"', '"Ramamurti"']
-['376', '1960', '"10104"', '"Bombay Medical Council"', '"Pratap Jamna Das Purshottamdas"', 'null']
-['377', '1960', '"10104"', '"Madras Medical Council"', '"Gendalal Jain"', '"Ramasa"']
-['378', '1960', '"10104"', '"West Bengal Medical Council"', '"Pramanik Tarapada"', 'null']
-['379', '1960', '"10105"', '"Bombay Medical Council"', '"Raval Vasudeo Jagannath"', 'null']
-['380', '1960', '"10105"', '"Madras Medical Council"', '"Parasu Raman Chalat Rama Iyer"', '"C S Rama Iyer"']
-['381', '1960', '"10105"', '"West Bengal Medical Council"', '"Md Abdul Karim"', 'null']
-['382', '1960', '"10106"', '"Madras Medical Council"', '"Ittikuru Cheeran Ipe"', '"C P Ipe"']
-['383', '1960', '"10107"', '"Madras Medical Council"', '"Anantanarayanan Karuppathu Venkataraman"', '"K R Venkatarama Iyer"']
-['384', '1960', '"10107"', '"West Bengal Medical Council"', '"Sahamandal Sudhendusndar"', 'null']
-['385', '1960', '"10108"', '"Madras Medical Council"', '"Venkata Rao Bhola"', '"B Dayananda Rao"']
-['386', '1960', '"10108"', '"West Bengal Medical Council"', '"Saha Surendranath"', 'null']
-['387', '1960', '"10109"', '"Madras Medical Council"', '"David Miss. Lily"', '"David Tharakan"']
-['388', '1960', '"10109"', '"West Bengal Medical Council"', '"Bagchi Mahendramohan"', 'null']
-['389', '1960', '"1011"', '"Andhra Pradesh Medical Council"', '"Kasibhatla Ramalinga Sastry"', '"K L Narasimha Rao"']
-['390', '1960', '"1011"', '"Assam Medical Council"', '"Debsarma Laksheswar"', 'null']
-['391', '1960', '"1011"', '"Bihar Medical Council"', '"Chakravarti Chandicahran"', 'null']
-['392', '1960', '"1011"', '"Hyderabad Medical Council"', '"Syed Hamid Hussain"', '"Syed Sirajul Hussain"']
-['393', '1960', '"1011"', '"Mysore Medical Council"', '"Rama Rao P"', '"P Rmadesayya"']
-['394', '1960', '"1011"', '"Orissa Council of Medical Registration"', '"Majumdar Satyendra Kumar"', 'null']
-['395', '1960', '"1011"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Govindan Nair Raman Pillai"', '"V R Pillai"']
-['396', '1960', '"10110"', '"Madras Medical Council"', '"Pereira Percival Felix Alexander"', '"F Mp Pereira"']
-['397', '1960', '"10111"', '"Bombay Medical Council"', '"Tanna Tatilal Ghusalal"', 'null']
-['398', '1960', '"10111"', '"Madras Medical Council"', '"Sumitramma Nandyal"', '"N Rangacharlu"']
-['399', '1960', '"10111"', '"West Bengal Medical Council"', '"Guha Kshitischandra"', 'null']
-['400', '1960', '"10112"', '"Bombay Medical Council"', '"Jinsiwale Prahlad Ram Rao"', 'null']
-['401', '1960', '"10112"', '"Madras Medical Council"', '"Gopalan Ramasubbier"', '"V Ramasubbier"']
-['402', '1960', '"10112"', '"West Bengal Medical Council"', '"Das Jogeschandra"', 'null']
-['403', '1960', '"10113"', '"Bombay Medical Council"', '"Pithwa Miss. Phagirathi Jadavaji"', 'null']
-['404', '1960', '"10113"', '"Madras Medical Council"', '"Karunakara Hegde Badagabettu"', '"B Krishnaya Hegde"']
-['405', '1960', '"10113"', '"West Bengal Medical Council"', '"Sengupta Amalendu"', 'null']
-['406', '1960', '"10114"', '"Bombay Medical Council"', '"Kothari Navinchandra Chiman Lal"', 'null']
-['407', '1960', '"10114"', '"Madras Medical Council"', '"Chacko Miss. Susan"', '"Dr. M O Chacko"']
-['408', '1960', '"10114"', '"West Bengal Medical Council"', '"Gangopadhyay Ajitchandra"', 'null']
-['409', '1960', '"10115"', '"Bombay Medical Council"', '"Karandikar Babu Rao Vithal"', 'null']
-['410', '1960', '"10115"', '"Madras Medical Council"', '"De Rsario John Oswald Laurence"', '"W H Deo Rosario"']
-['411', '1960', '"10116"', '"Bombay Medical Council"', '"Tayshetye Bhaskar Ramchandra"', 'null']
-['412', '1960', '"10116"', '"Madras Medical Council"', '"Sridevi Miss. Pradinharan Kounnath T"', '"K Kunhunni Nayar"']
-['413', '1960', '"10116"', '"West Bengal Medical Council"', '"Das Harendra Chandra"', 'null']
-['414', '1960', '"10117"', '"Madras Medical Council"', '"Sucharita Miss. Doraiswami"', '"Dr. E M Doraiswami"']
-['415', '1960', '"10117"', '"West Bengal Medical Council"', '"Md Azizur Rahman"', 'null']
-['416', '1960', '"10118"', '"Bombay Medical Council"', '"Sonagra Purushotam Devji Bhai"', 'null']
-['417', '1960', '"10118"', '"Madras Medical Council"', '"Radha Krishnan Neelakandan"', '"B Neelakandan"']
-['418', '1960', '"10118"', '"West Bengal Medical Council"', '"-"', 'null']
-['419', '1960', '"10119"', '"Bombay Medical Council"', '"Fernandes Miss. Charlotte"', 'null']
-['420', '1960', '"10119"', '"Madras Medical Council"', '"Venkatesan Narayanaswami"', '"S Narayanaswami Aiyer"']
-['421', '1960', '"10119"', '"West Bengal Medical Council"', '"De Sudhir Kumar"', 'null']
-['422', '1960', '"1012"', '"Andhra Pradesh Medical Council"', '"Arikeri Sannappa"', '"Ahusanappa"']
-['423', '1960', '"1012"', '"Assam Medical Council"', '"Thompson Earnest Frances"', 'null']
-['424', '1960', '"1012"', '"Hyderabad Medical Council"', '"Ghani Kazi Abdul"', '"Kazi Abdul Latif"']
-['425', '1960', '"1012"', '"Mysore Medical Council"', '"Narayan A I"', '"A Krishna Iyengar"']
-['426', '1960', '"1012"', '"Orissa Council of Medical Registration"', '"Bhadra Gosthalal"', 'null']
-['427', '1960', '"1012"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Sheikh Shaffudin Ahmed Sahib Moideen"', '"Sheikh Moideen Sahib"']
-['428', '1960', '"10120"', '"Madras Medical Council"', '"Natchiyappan Muthiah"', '"Muthiah Chettiyar"']
-['429', '1960', '"10120"', '"West Bengal Medical Council"', '"Das Jitendra Nath"', 'null']
-['430', '1960', '"10121"', '"Madras Medical Council"', '"Muthiah Samuel"', '"Thomas Jesudason"']
-['431', '1960', '"10121"', '"West Bengal Medical Council"', '"Ghosh Jibankrishna"', 'null']
-['432', '1960', '"10122"', '"Madras Medical Council"', '"Muhammad Abdus Subhan"', '"A Akbar Shah Saheb"']
-['433', '1960', '"10122"', '"West Bengal Medical Council"', '"Majumdar Suhrid"', 'null']
-['434', '1960', '"10123"', '"Bombay Medical Council"', '"Mahimtura Kashinath Gajanan"', 'null']
-['435', '1960', '"10123"', '"Madras Medical Council"', '"Padmanabhan Ramaswami"', '"Raja K Ramaswami Chettiar"']
-['436', '1960', '"10123"', '"West Bengal Medical Council"', '"Bhattacharyya Asutosh"', 'null']
-['437', '1960', '"10124"', '"Bombay Medical Council"', '"Montoomery Richard Hugh"', 'null']
-['438', '1960', '"10124"', '"Madras Medical Council"', '"Suseela Puchalapalli"', '"P Venkataramman A"']
-['439', '1960', '"10124"', '"West Bengal Medical Council"', '"Bhattacharyya Chandruchandtra"', 'null']
-['440', '1960', '"10125"', '"Madras Medical Council"', '"Arundhathi Miss. Victoria Kolli"', '"K V Subba Reddy"']
-['441', '1960', '"10125"', '"West Bengal Medical Council"', '"Ray Apurbakumar"', 'null']
-['442', '1960', '"10126"', '"Bombay Medical Council"', '"Iyer Subramani Ganapati"', 'null']
-['443', '1960', '"10126"', '"Madras Medical Council"', '"Mithilesh Miss. Kodoth"', '"K P Kannan Nair"']
-['444', '1960', '"10126"', '"West Bengal Medical Council"', '"Ghosh Dhirendra Nath"', 'null']
-['445', '1960', '"10127"', '"Bombay Medical Council"', '"Sequeri Eustace Joseph"', 'null']
-['446', '1960', '"10127"', '"Madras Medical Council"', '"Narayana Rai Savanoor"', 'null']
-['447', '1960', '"10128"', '"Bombay Medical Council"', '"Nazareth Frederic Anthony"', 'null']
-['448', '1960', '"10128"', '"Madras Medical Council"', '"Nanjamma Miss. Hoskote Krishna Sastri"', '"Rao Bahadur Krishna Sastri"']
-['449', '1960', '"10128"', '"West Bengal Medical Council"', '"Nayak Anil Kumar"', 'null']
-['450', '1960', '"10129"', '"Bombay Medical Council"', '"Wadhwani Metharam Pesuram"', 'null']
-['451', '1960', '"10129"', '"Madras Medical Council"', '"Ratnavati Miss. Challa"', '"C Surya Narayana"']
-['452', '1960', '"10129"', '"West Bengal Medical Council"', '"Bonner Muriel V"', 'null']
-['453', '1960', '"1013"', '"Hyderabad Medical Council"', '"Bansilal Vigg"', '"Kushi Ram Vigg"']
-['454', '1960', '"1013"', '"Madras Medical Council"', '"Paul Glbert E"', '"A A Paul"']
-['455', '1960', '"1013"', '"Mysore Medical Council"', '"Putte Bhatta N V"', '"Venkatanarayana Bhatta"']
-['456', '1960', '"1013"', '"Orissa Council of Medical Registration"', '"Sekhri Padma"', 'null']
-['457', '1960', '"1013"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Mathew Chirakadavil Paul"', '"C M Paul"']
-['458', '1960', '"10130"', '"Bombay Medical Council"', '"Chidgupkar Bhoj Pandhari Nath"', 'null']
-['459', '1960', '"10130"', '"Madras Medical Council"', '"Santhanam Coimbatore Narasimha"', '"C V Narasimha Iyengar"']
-['460', '1960', '"10130"', '"West Bengal Medical Council"', '"Majumdar Dineschandra"', 'null']
-['461', '1960', '"10131"', '"Bombay Medical Council"', '"Gokhale Gangadhar Vishnu"', 'null']
-['462', '1960', '"10131"', '"Madras Medical Council"', '"Krishna Pishraoti Sukapurath Pishparath"', '"K M Vasudevan Nambudiri"']
-['463', '1960', '"10131"', '"West Bengal Medical Council"', '"Ahmedur Rahman"', 'null']
-['464', '1960', '"10132"', '"Bombay Medical Council"', '"Sarda Kailash Chandra Ramakant"', 'null']
-['465', '1960', '"10132"', '"Madras Medical Council"', '"Ranjani Miss. Nagaswamy Ranguja"', '"S Nagaswamy"']
-['466', '1960', '"10133"', '"Bombay Medical Council"', '"Hiremath Vilasashkar Rudrayya"', 'null']
-['467', '1960', '"10133"', '"Madras Medical Council"', '"Jayalakshmi Miss. Thangavel"', '"S O Thangavel Nadar"']
-['468', '1960', '"10133"', '"West Bengal Medical Council"', '"Abdul Rahman Miah"', 'null']
-['469', '1960', '"10134"', '"Bombay Medical Council"', '"Raghuvanshi Hanumantsingh Anatsingh"', 'null']
-['470', '1960', '"10134"', '"Madras Medical Council"', '"Mukambu Miss. Bindur"', '"B Putte Naik"']
-['471', '1960', '"10134"', '"West Bengal Medical Council"', '"Guha Rasranjan"', 'null']
-['472', '1960', '"10135"', '"Bombay Medical Council"', '"Nanji Miss. Tehmi Ruttonji"', 'null']
-['473', '1960', '"10135"', '"Madras Medical Council"', '"Sadasiva Rao Kasaraneni"', '"Sastrulu"']
-['474', '1960', '"10135"', '"West Bengal Medical Council"', '"Mandal Pasupati Bsc"', 'null']
-['475', '1960', '"10136"', '"Bombay Medical Council"', '"Gogte Bhagwan"', 'null']
-['476', '1960', '"10136"', '"Madras Medical Council"', '"Sarojini R Mrs."', '"A Ponnuswammyh"']
-['477', '1960', '"10136"', '"West Bengal Medical Council"', '"Hajra Amalendu"', 'null']
-['478', '1960', '"10137"', '"Bombay Medical Council"', '"Kothari Pranlal Chunilal"', 'null']
-['479', '1960', '"10137"', '"Madras Medical Council"', '"Ramani Miss. Koladi Mutheri"', '"P G V Rajah"']
-['480', '1960', '"10137"', '"West Bengal Medical Council"', '"Basu Sudhindranath"', 'null']
-['481', '1960', '"10138"', '"Bombay Medical Council"', '"Banker Dushyant Dhiraj Lal"', 'null']
-['482', '1960', '"10138"', '"Madras Medical Council"', '"Bracken Heron Anthony"', '"M J Bracken"']
-['483', '1960', '"10138"', '"West Bengal Medical Council"', '"Barmanpramanik Jogeshchandra"', 'null']
-['484', '1960', '"10139"', '"Bombay Medical Council"', '"Mehta Mrs. Kusum Janak"', 'null']
-['485', '1960', '"10139"', '"West Bengal Medical Council"', '"Mukhopadhyay Bijaychandra"', 'null']
-['486', '1960', '"1014"', '"Andhra Pradesh Medical Council"', '"Kasina Chinnamraju"', '"Buli Seshaiah"']
-['487', '1960', '"1014"', '"Assam Medical Council"', '"Bhattacharjee Prabhat Chandra"', '"Brojanath Bhattacharjee"']
-['488', '1960', '"1014"', '"Bihar Medical Council"', '"Roy Jitendra Mohan"', 'null']
-['489', '1960', '"1014"', '"Hyderabad Medical Council"', '"Bhole Dinker Raghunath"', '"Raghunath Bhole"']
-['490', '1960', '"1014"', '"Mysore Medical Council"', '"Sampathiyengar S G"', '"N Gopala Krishna Iyengar"']
-['491', '1960', '"1014"', '"Orissa Council of Medical Registration"', '"Saha Bela Miss."', 'null']
-['492', '1960', '"1014"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Gpalakrishnan Padmanabhan"', '"T K Padmanabhan"']
-['493', '1960', '"10140"', '"Bombay Medical Council"', '"Ministry Miss. Soona Jamshedji"', 'null']
-['494', '1960', '"10140"', '"Madras Medical Council"', '"Ramachandra Rao Chitturu ]"', '"C Somalingam"']
-['495', '1960', '"10140"', '"West Bengal Medical Council"', '"Mitra Subodhchandra"', 'null']
-['496', '1960', '"10141"', '"Bombay Medical Council"', '"Solomon Miss. Abigail"', 'null']
-['497', '1960', '"10141"', '"Madras Medical Council"', '"Harjeevan Shetty Kolyar"', '"M Ramanna Shetty"']
-['498', '1960', '"10142"', '"Bombay Medical Council"', '"Joglekar Vasudev Hari"', 'null']
-['499', '1960', '"10142"', '"Madras Medical Council"', '"Andrews Manual John"', '"Rev Manual"']
-['500', '1960', '"10142"', '"West Bengal Medical Council"', '"Bagchi Sardanath"', 'null']
-['501', '1960', '"10143"', '"Bombay Medical Council"', '"Merchant Surendra Mani Lal"', 'null']
-['502', '1960', '"10143"', '"Madras Medical Council"', '"Subba Rao Vaka"', '"V Sampathe Rao"']
-['503', '1960', '"10143"', '"West Bengal Medical Council"', '"Ghosh Jitendra Nath"', 'null']
-['504', '1960', '"10144"', '"Bombay Medical Council"', '"Vora Dharamdas Damodaradas"', 'null']
-['505', '1960', '"10144"', '"Madras Medical Council"', '"Rajasekhara Aiyar Krishna Sastry"', '"Krishna Sastry"']
-['506', '1960', '"10144"', '"West Bengal Medical Council"', '"Ukil Sukumar"', 'null']
-['507', '1960', '"10145"', '"Bombay Medical Council"', '"Shende Shriniwas Trimbak"', 'null']
-['508', '1960', '"10145"', '"Madras Medical Council"', '"Syed Zainalabindin"', '"Syed Shemshuddin"']
-['509', '1960', '"10145"', '"West Bengal Medical Council"', '"Ray Bhabeschandra"', 'null']
-['510', '1960', '"10146"', '"Bombay Medical Council"', '"Gandhi Miss. Kamal Ranchhodas"', 'null']
-['511', '1960', '"10146"', '"West Bengal Medical Council"', '"Ray Pulinbihari"', 'null']
-['512', '1960', '"10147"', '"Bombay Medical Council"', '"Sheth Miss. Sarla Laxmi Chand"', 'null']
-['513', '1960', '"10147"', '"Madras Medical Council"', '"Ramachandran Pandalai Krishnan"', '"Vishnu Govindan Nambudiri"']
-['514', '1960', '"10147"', '"West Bengal Medical Council"', '"Basu Sudhirchandra"', 'null']
-['515', '1960', '"10148"', '"Bombay Medical Council"', '"Mansan Mohammae Abdul"', 'null']
-['516', '1960', '"10148"', '"West Bengal Medical Council"', '"Ash Matilal"', 'null']
-['517', '1960', '"10149"', '"Bombay Medical Council"', '"Mankad Chaman Lal Bajibhai"', 'null']
-['518', '1960', '"10149"', '"Madras Medical Council"', '"Venkata Reddy Suravaram"', '"S Ranga Reddy"']
-['519', '1960', '"10149"', '"West Bengal Medical Council"', '"Basu Sudhirkrishna"', 'null']
-['520', '1960', '"1015"', '"Andhra Pradesh Medical Council"', '"Mitnala Nagaraja"', '"M Timmayya"']
-['521', '1960', '"1015"', '"Assam Medical Council"', '"Chaudhary Abdus Shahid"', 'null']
-['522', '1960', '"1015"', '"Bihar Medical Council"', '"Das Dhirendra Nath"', 'null']
-['523', '1960', '"1015"', '"Bombay Medical Council"', '"Thakor Manjulal Jadavrai"', 'null']
-['524', '1960', '"1015"', '"Hyderabad Medical Council"', '"Gunjutikar Gyan Chand"', '"Shivalingappa"']
-['525', '1960', '"1015"', '"Mysore Medical Council"', '"Kodandaraman M"', '"M Raghunatha Mudaliar"']
-['526', '1960', '"1015"', '"Orissa Council of Medical Registration"', '"Sahu Chakradhar"', 'null']
-['527', '1960', '"1015"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Sahadevan Nambanath Krishnan"', '"Nambanath Krishnan"']
-['528', '1960', '"10150"', '"Bombay Medical Council"', '"Eatterpaker Miss. Keshar"', 'null']
-['529', '1960', '"10150"', '"Madras Medical Council"', '"Chidambaram Muthalagappa"', '"N M A Muthalga Chettiar"']
-['530', '1960', '"10150"', '"West Bengal Medical Council"', '"Mandal Sudhakrishna"', 'null']
-['531', '1960', '"10151"', '"Bombay Medical Council"', '"Roy Chandrasen Sunder Rao"', 'null']
-['532', '1960', '"10151"', '"Madras Medical Council"', '"Shillong Donald Wilfred"', '"Dr. J H Shillong"']
-['533', '1960', '"10151"', '"West Bengal Medical Council"', '"Nahdyopadhyay Ashok Chandra"', 'null']
-['534', '1960', '"10152"', '"Bombay Medical Council"', '"Veval Jalejar Jehangirji"', 'null']
-['535', '1960', '"10152"', '"Madras Medical Council"', '"Appachoo Patamda Ponappa"', '"P Ponappa"']
-['536', '1960', '"10153"', '"Bombay Medical Council"', '"Dhondi Furrokh Bapuji"', 'null']
-['537', '1960', '"10153"', '"Madras Medical Council"', '"Tirumala Rao Dronam Raju"', '"D Venkataramana Rao"']
-['538', '1960', '"10153"', '"West Bengal Medical Council"', '"Dewan Khagendrakisor"', 'null']
-['539', '1960', '"10154"', '"Bombay Medical Council"', '"Talavlikar Shanta Ram Gopal"', 'null']
-['540', '1960', '"10154"', '"Madras Medical Council"', '"Lakshminarasimha Rao Thota"', '"T Venkata Rao"']
-['541', '1960', '"10154"', '"West Bengal Medical Council"', '"Sen Binaymohan"', 'null']
-['542', '1960', '"10155"', '"Bombay Medical Council"', '"Vyas Pravinkumar Bhukhan Das"', 'null']
-['543', '1960', '"10155"', '"Madras Medical Council"', '"Sambandam Valluvakudi Rathansabapthy"', '"N Rathnasabapathy Pillai"']
-['544', '1960', '"10156"', '"Bombay Medical Council"', '"Date Gangadhar Laxman"', 'null']
-['545', '1960', '"10156"', '"Madras Medical Council"', '"Kamala Mrs. Rajagopal Prathivadibayamka"', '"P Narasimhachar"']
-['546', '1960', '"10156"', '"West Bengal Medical Council"', '"Datta Sudhansu Kumar"', 'null']
-['547', '1960', '"10157"', '"Madras Medical Council"', '"Rachel Chacko 9mrs"', '"P C Thomas"']
-['548', '1960', '"10157"', '"West Bengal Medical Council"', '"Chattopadhyay Bhola Nath"', 'null']
-['549', '1960', '"10158"', '"Madras Medical Council"', '"Malathy Miss. Marath"', 'null']
-['550', '1960', '"10158"', '"West Bengal Medical Council"', '"De Kantichandra"', 'null']
-['551', '1960', '"10159"', '"Bombay Medical Council"', '"Wagle Miss. Sushila Ganjanan"', 'null']
-['552', '1960', '"10159"', '"Madras Medical Council"', '"Kalyan Ramaswamy Jiddu"', '"G V Ragaviah"']
-['553', '1960', '"10159"', '"West Bengal Medical Council"', '"Ray Suryyakanta"', 'null']
-['554', '1960', '"1016"', '"Andhra Pradesh Medical Council"', '"Choppala Venkata Ratnam"', '"Narasayya"']
-['555', '1960', '"1016"', '"Assam Medical Council"', '"Sen Gupta Dwijendranath"', 'null']
-['556', '1960', '"1016"', '"Bihar Medical Council"', '"Lal Kirit Narayan"', 'null']
-['557', '1960', '"1016"', '"Hyderabad Medical Council"', '"Kuchi Bhotla Murthy Sreman Narayan"', '"Markanandeya Shastry Kuchi Bhotla"']
-['558', '1960', '"1016"', '"Mysore Medical Council"', '"Mummurthi Conjeevaram"', '"C Murugesha Mudaliar"']
-['559', '1960', '"1016"', '"Orissa Council of Medical Registration"', '"Biswal Kalpataru"', 'null']
-['560', '1960', '"1016"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Sasilekha Sankaran Nadar"', '"M Sankaran Nadar"']
-['561', '1960', '"10160"', '"Bombay Medical Council"', '"Shah Kantilal Chhota Lal"', 'null']
-['562', '1960', '"10160"', '"Madras Medical Council"', '"Venkataraman Krishnamurti"', '"A S Krishnamurti Sastry"']
-['563', '1960', '"10160"', '"West Bengal Medical Council"', '"Saha Nibaranchandra"', 'null']
-['564', '1960', '"10161"', '"Madras Medical Council"', '"Smith Cecil Percival Leval"', '"A L Smith"']
-['565', '1960', '"10161"', '"West Bengal Medical Council"', '"Sen Prabhaskumar"', 'null']
-['566', '1960', '"10162"', '"Bombay Medical Council"', '"Joshi Ramchandra Krishnaji"', 'null']
-['567', '1960', '"10162"', '"Madras Medical Council"', '"Macpherson Norman Stewart"', '"S Macpherson"']
-['568', '1960', '"10162"', '"West Bengal Medical Council"', '"Saha Sundargopal"', '"Mahendra Nath Saha"']
-['569', '1960', '"10163"', '"Bombay Medical Council"', '"Master Thakordas Bhagawan Das"', 'null']
-['570', '1960', '"10163"', '"Madras Medical Council"', '"Gopala Rao Jumpala"', '"Narayanamurthy"']
-['571', '1960', '"10163"', '"West Bengal Medical Council"', '"Mandal Bholanath"', 'null']
-['572', '1960', '"10164"', '"Bombay Medical Council"', '"Kirpalani Lachhman Uttamchand"', 'null']
-['573', '1960', '"10164"', '"Madras Medical Council"', '"Ranganatham Adayar"', '"Jagadeesa Mudaliar"']
-['574', '1960', '"10165"', '"Bombay Medical Council"', '"Advani Govind Radha Krishna"', 'null']
-['575', '1960', '"10165"', '"Madras Medical Council"', '"Mahadevan Vythisubramanya"', 'null']
-['576', '1960', '"10165"', '"West Bengal Medical Council"', '"Bhattacharyya Lalmohan"', 'null']
-['577', '1960', '"10166"', '"Bombay Medical Council"', '"Manekshaw Rusi Jamshed"', 'null']
-['578', '1960', '"10166"', '"Madras Medical Council"', '"Lakshmanacharyulu Tamirisa"', '"T Venkatacharyalu"']
-['579', '1960', '"10167"', '"Bombay Medical Council"', '"Sholapurkar Krishna Bhim Rao"', 'null']
-['580', '1960', '"10167"', '"Madras Medical Council"', '"Gibson Duncan Leonard"', '"Major J E Gibson"']
-['581', '1960', '"10167"', '"West Bengal Medical Council"', '"Chaudhuri Asokchandra"', 'null']
-['582', '1960', '"10168"', '"Bombay Medical Council"', '"Castelino Joseph E"', 'null']
-['583', '1960', '"10168"', '"Madras Medical Council"', '"Vedamani Miss. Chintagunta"', '"G Gnanaiah"']
-['584', '1960', '"10168"', '"West Bengal Medical Council"', '"Dalbahadur Rai"', 'null']
-['585', '1960', '"10169"', '"Bombay Medical Council"', '"Hate Shashi Kant Dolaray"', 'null']
-['586', '1960', '"10169"', '"West Bengal Medical Council"', '"Basu Santipriya"', 'null']
-['587', '1960', '"1017"', '"Andhra Pradesh Medical Council"', '"Khan Basheer"', '"Kasim Khan"']
-['588', '1960', '"1017"', '"Assam Medical Council"', '"Bora Ramchandra"', 'null']
-['589', '1960', '"1017"', '"Bihar Medical Council"', '"Ghosh Kalyan Krishna"', 'null']
-['590', '1960', '"1017"', '"Bombay Medical Council"', '"Bharucha Navroji Hormasji"', 'null']
-['591', '1960', '"1017"', '"Hyderabad Medical Council"', '"Jagindar Digumber Rao"', '"Vaman Rao Jagindar"']
-['592', '1960', '"1017"', '"Madras Medical Council"', '"Shukoor Mohamed Abdul"', '"Mohamed Peer"']
-['593', '1960', '"1017"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Abhayabika Miss. Kamalakshy Amma"', '"G Sankaran Thampy"']
-['594', '1960', '"1017"', '"West Bengal Medical Council"', '"Adhikari Lalitmohan"', 'null']
-['595', '1960', '"10170"', '"Bombay Medical Council"', '"Irani Miss. Goher Rustom"', 'null']
-['596', '1960', '"10170"', '"West Bengal Medical Council"', '"Gangopadhyay Susilchandra"', 'null']
-['597', '1960', '"10171"', '"Bombay Medical Council"', '"Tanna Nanji Kanji"', 'null']
-['598', '1960', '"10171"', '"Madras Medical Council"', '"Thomas Kovoor Ninan"', '"K N Thomas"']
-['599', '1960', '"10171"', '"West Bengal Medical Council"', '"Chattopadhyay Satijiban"', 'null']
-['600', '1960', '"10172"', '"Bombay Medical Council"', '"Desai Dhireshwar Shankerdas"', 'null']
-['601', '1960', '"10172"', '"Madras Medical Council"', '"Balagangadara Sarma Uppaluri"', '"U Adinarayanamurrh Pantulu"']
-['602', '1960', '"10172"', '"West Bengal Medical Council"', '"Mukhopadhyay Maniklal"', 'null']
-['603', '1960', '"10173"', '"Bombay Medical Council"', '"Mehta Khushru Mancherji"', 'null']
-['604', '1960', '"10173"', '"Madras Medical Council"', '"Harinarayan Peddi"', '"P Chalapati Rao"']
-['605', '1960', '"10174"', '"Bombay Medical Council"', '"Bhide Mahadeo Govind"', 'null']
-['606', '1960', '"10174"', '"Madras Medical Council"', '"Raghavendra Rao Surat"', '"S Lakshmaji Rao"']
-['607', '1960', '"10174"', '"West Bengal Medical Council"', '"Shah Mafizuddin Ahmed"', 'null']
-['608', '1960', '"10175"', '"Bombay Medical Council"', '"Herekar Shaik Dawood Ibrahim"', 'null']
-['609', '1960', '"10175"', '"Madras Medical Council"', '"Thomson James Ford Lt Col"', '"J Thomson"']
-['610', '1960', '"10175"', '"West Bengal Medical Council"', '"Sanyal Narayanchandra"', 'null']
-['611', '1960', '"10176"', '"Bombay Medical Council"', '"Loombanmalva Ram"', 'null']
-['612', '1960', '"10176"', '"Madras Medical Council"', '"Chandravathi Birra"', '"B Venkataramaanayya"']
-['613', '1960', '"10176"', '"West Bengal Medical Council"', '"Parhi Narendra Nath"', 'null']
-['614', '1960', '"10177"', '"Madras Medical Council"', '"Ninan Miss. Liela K"', '"K J Ninan"']
-['615', '1960', '"10177"', '"West Bengal Medical Council"', '"Chaudhuri Basantakumar"', 'null']
-['616', '1960', '"10178"', '"Bombay Medical Council"', '"Kalokhe Vaman Raghunath"', 'null']
-['617', '1960', '"10178"', '"Madras Medical Council"', '"Roy Kishirode Bihari Captain"', '"K B Roy"']
-['618', '1960', '"10179"', '"Bombay Medical Council"', '"Talsania Champak Lal Chunilal"', 'null']
-['619', '1960', '"10179"', '"Madras Medical Council"', '"Krishnavenamma Mrs. Reddy Ojala"', '"B Seshanna Naidu"']
-['620', '1960', '"10179"', '"West Bengal Medical Council"', '"Mujibara Rahman"', 'null']
-['621', '1960', '"1018"', '"Andhra Pradesh Medical Council"', '"Vasudava Ramanath"', '"M Vasudava Singh"']
-['622', '1960', '"1018"', '"Assam Medical Council"', '"Gogoi Dugdha Nath"', 'null']
-['623', '1960', '"1018"', '"Orissa Council of Medical Registration"', '"Ray Kahntibhushan"', 'null']
-['624', '1960', '"1018"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Indira Devi C S"', '"C K Sankara Narayanan Ezhuthachan"']
-['625', '1960', '"10180"', '"Bombay Medical Council"', '"Shaikh Abdul Rahman A"', 'null']
-['626', '1960', '"10180"', '"Madras Medical Council"', '"Rangachari Nanduri"', '"N Srinivasachari"']
-['627', '1960', '"10181"', '"Bombay Medical Council"', '"De Almedia Venancio Bonefacio Xavier"', 'null']
-['628', '1960', '"10181"', '"Madras Medical Council"', '"Dharamvir Goyal"', '"Dr. Prasanna Mal"']
-['629', '1960', '"10181"', '"West Bengal Medical Council"', '"Sur Bijaygopal"', 'null']
-['630', '1960', '"10182"', '"Bombay Medical Council"', '"Suryawanshi Vishnu Namdeo Rao"', 'null']
-['631', '1960', '"10182"', '"Madras Medical Council"', '"Venkateswar Chowdary Tripurameni"', '"Subramanyam"']
-['632', '1960', '"10183"', '"Bombay Medical Council"', '"Bhat Govind Trimbak"', 'null']
-['633', '1960', '"10183"', '"Madras Medical Council"', '"Reed William Henry Grist Major"', '"Reed William Henry"']
-['634', '1960', '"10183"', '"West Bengal Medical Council"', '"De Parimalchandra"', 'null']
-['635', '1960', '"10184"', '"Bombay Medical Council"', '"Shah Virchan Bhaichand"', 'null']
-['636', '1960', '"10184"', '"Madras Medical Council"', '"Fitch Keith Simpson"', '"W J Fitch"']
-['637', '1960', '"10184"', '"West Bengal Medical Council"', '"Mandal Bibhutibhushan"', 'null']
-['638', '1960', '"10185"', '"Bombay Medical Council"', '"Manshani Sundar Chellaram"', 'null']
-['639', '1960', '"10185"', '"Madras Medical Council"', '"Rajagopalan Vedam"', '"V Vedam Aiyar"']
-['640', '1960', '"10185"', '"West Bengal Medical Council"', '"Sarkar Bhabanicharan"', 'null']
-['641', '1960', '"10186"', '"Madras Medical Council"', '"Audikesavalu Kanianoor Janardhanam"', '"K Janardhanam Naidu"']
-['642', '1960', '"10186"', '"West Bengal Medical Council"', '"De Balaichand"', 'null']
-['643', '1960', '"10187"', '"Bombay Medical Council"', '"Trivedi Vishnu Prasad Jagjivandas"', 'null']
-['644', '1960', '"10187"', '"Madras Medical Council"', '"Ellis Gerald Willoughby Vigne"', '"H W Ellis"']
-['645', '1960', '"10188"', '"Bombay Medical Council"', '"Antani Fulshankar Girjashankar"', 'null']
-['646', '1960', '"10188"', '"Madras Medical Council"', '"Lockley Miss. Dora Monica"', '"W H Lockley"']
-['647', '1960', '"10188"', '"West Bengal Medical Council"', '"Sinha Bhyubanchandra"', 'null']
-['648', '1960', '"10189"', '"Bombay Medical Council"', '"Oza Kamalashankar Ravi Shankar"', 'null']
-['649', '1960', '"10189"', '"Madras Medical Council"', '"Krishna Mohan Rao Kara"', '"K Annava Raju"']
-['650', '1960', '"10189"', '"West Bengal Medical Council"', '"Bhaumik Subodhchandra"', 'null']
-['651', '1960', '"1019"', '"Andhra Pradesh Medical Council"', '"Chakka Lakshmi Narayana"', '"Ch Sreeramulu"']
-['652', '1960', '"1019"', '"Assam Medical Council"', '"Vieyra Cyril Francis"', 'null']
-['653', '1960', '"1019"', '"Hyderabad Medical Council"', '"Raj Prohit Venkoba Acharya Krishnacharya"', '"Krishna Charya"']
-['654', '1960', '"1019"', '"Madras Medical Council"', '"Gibson William Robert"', 'null']
-['655', '1960', '"1019"', '"Mysore Medical Council"', '"Gundappa N P"', '"Narayana Puraneek"']
-['656', '1960', '"1019"', '"Orissa Council of Medical Registration"', '"Mukhopadhyay Phanindranath"', 'null']
-['657', '1960', '"1019"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Abdul Jabbar N"', '"P N Khan"']
-['658', '1960', '"10190"', '"Bombay Medical Council"', '"Tolia Vasantri Durlabhji"', 'null']
-['659', '1960', '"10190"', '"Madras Medical Council"', '"Radha Krishnan Kandaswamy"', '"M Kandaswamy Mudaliar"']
-['660', '1960', '"10190"', '"West Bengal Medical Council"', '"Mandal Purnachandra"', 'null']
-['661', '1960', '"10191"', '"Bombay Medical Council"', '"Rawal Hari Lal Mohanlal"', 'null']
-['662', '1960', '"10191"', '"Madras Medical Council"', '"Rajaram Dharmapuri"', '"D Govindrajulu Naidu"']
-['663', '1960', '"10191"', '"West Bengal Medical Council"', '"Basak Duracharan"', 'null']
-['664', '1960', '"10192"', '"Bombay Medical Council"', '"Dhawle Narayan Ramchandra"', 'null']
-['665', '1960', '"10192"', '"Madras Medical Council"', '"Sethu Bai Miss. Ragaswami"', '"Rao Bahadur K Ramgaswami"']
-['666', '1960', '"10192"', '"West Bengal Medical Council"', '"Pain Abhaycharan"', 'null']
-['667', '1960', '"10193"', '"Bombay Medical Council"', '"Nanavati Mrs. Sharad"', 'null']
-['668', '1960', '"10193"', '"Madras Medical Council"', '"Sanjiva Rao Gedam Setti"', '"G Papparao Naidu"']
-['669', '1960', '"10193"', '"West Bengal Medical Council"', '"Sanyal Prabhatchandra"', 'null']
-['670', '1960', '"10194"', '"Bombay Medical Council"', '"Pinto John Reginald"', 'null']
-['671', '1960', '"10194"', '"Madras Medical Council"', '"Narayanan Gobichettipalayam Rathnaswami"', '"G N Rathnaswami"']
-['672', '1960', '"10194"', '"West Bengal Medical Council"', '"Nandi Saileschandra"', 'null']
-['673', '1960', '"10195"', '"Madras Medical Council"', '"Vaman Rao Gopinath Balaji"', '"P Ekambara Rao"']
-['674', '1960', '"10195"', '"West Bengal Medical Council"', '"Bandyopadhyay Sukritimaya"', 'null']
-['675', '1960', '"10196"', '"Bombay Medical Council"', '"Sah Pritamkumar Mani Lal"', 'null']
-['676', '1960', '"10196"', '"Madras Medical Council"', '"Vimala Tekke Curupath"', '"A R Poduval"']
-['677', '1960', '"10196"', '"West Bengal Medical Council"', '"Basu Bimalbhushan"', 'null']
-['678', '1960', '"10197"', '"Bombay Medical Council"', '"Shah Bhagvatlal Mangal Das"', 'null']
-['679', '1960', '"10197"', '"Madras Medical Council"', '"Krishna Rao Nandella Venkata"', '"N Subbaiah"']
-['680', '1960', '"10197"', '"West Bengal Medical Council"', '"Chakrabarti Baidyanath"', 'null']
-['681', '1960', '"10198"', '"Bombay Medical Council"', '"Patel Ram Bhai Becherbhai"', 'null']
-['682', '1960', '"10198"', '"West Bengal Medical Council"', '"Mukhopadhyay Khagendranath"', 'null']
-['683', '1960', '"10199"', '"Bombay Medical Council"', '"Kewalramanee Tara Chand Dayaldas"', 'null']
-['684', '1960', '"10199"', '"Madras Medical Council"', '"Jackson Brian George"', '"S G Jackson"']
-['685', '1960', '"10199"', '"West Bengal Medical Council"', '"Ghosh Kshetragopal"', 'null']
-['686', '1960', '"101/F"', '"Bombay Medical Council"', '"Tresiddar Alfred Geddes C I E Lt Col"', 'null']
-['687', '1960', '"101/RR"', '"Bombay Medical Council"', '"Balkrishna Rao Pejavar"', 'null']
-['688', '1960', '"102"', '"Andhra Pradesh Medical Council"', '"Koka Krishna Rao"', '"K Chalapathi Rao"']
-['689', '1960', '"102"', '"Assam Medical Council"', '"Datta Sailendra Chandra"', 'null']
-['690', '1960', '"102"', '"Bihar Medical Council"', '"Stilwell Effie"', 'null']
-['691', '1960', '"102"', '"Hyderabad Medical Council"', '"Rizvi Syed Ahmed"', '"Syed Amin R Azvi"']
-['692', '1960', '"102"', '"Madhya Pradesh Medical Council"', '"Maheshwari Kalyan Mal"', '"Kanhiya Lal Maheshwari"']
-['693', '1960', '"102"', '"Mysore Medical Council"', '"Nagamma B S"', '"B Ram Rao"']
-['694', '1960', '"102"', '"Rajasthan Medical Council"', '"Joshi Paresh Ram"', '"Manse Ram Joshi"']
-['695', '1960', '"102"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Nanoo Pillai Gopala Pillai Panchamveetti"', '"Gopala Pillai"']
-['696', '1960', '"102"', '"Vidharba Medical Council"', '"Naidu Kalahstri Jagat Kesheorao"', '"Kalahstri Sreeman Narayana"']
-['697', '1960', '"1020"', '"Andhra Pradesh Medical Council"', '"Abdul Salam"', '"S K Madar Saheb"']
-['698', '1960', '"1020"', '"Assam Medical Council"', '"Nandi Prafulla Kumar"', 'null']
-['699', '1960', '"1020"', '"Hyderabad Medical Council"', '"Manohar Rao"', '"Neel Kantt Rao"']
-['700', '1960', '"1020"', '"Mysore Medical Council"', '"Shaik Ibrahim S K"', '"Abdul Kahalaque"']
-['701', '1960', '"1020"', '"Orissa Council of Medical Registration"', '"Sen Gupta Sunil Kumar"', 'null']
-['702', '1960', '"1020"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Lily Nelliparambil Raman Kutty"', '"M R Raman Kutty"']
-['703', '1960', '"10200"', '"Madras Medical Council"', '"O`Malley Antony Bernard"', '"F O`Malley"']
-['704', '1960', '"10200"', '"West Bengal Medical Council"', '"Das Dulal Chandra"', 'null']
-['705', '1960', '"10201"', '"Madras Medical Council"', '"Chandrasekharan Kumaraswami Saidapet"', '"Dr. K S Appu Mudaliar"']
-['706', '1960', '"10201"', '"West Bengal Medical Council"', '"Rudra Bhupendranarayan"', 'null']
-['707', '1960', '"10202"', '"Madras Medical Council"', '"Hanumanutha Rao Vadali"', '"V Venkateeswarlu"']
-['708', '1960', '"10202"', '"West Bengal Medical Council"', '"Mukhpadhyay Tarapada"', 'null']
-['709', '1960', '"10203"', '"Madras Medical Council"', '"Mariamma Krishna Murthi Mrs."', '"Rev. Thomas Thozhupadan"']
-['710', '1960', '"10204"', '"Madras Medical Council"', '"Jagannath Rao Hurli Madhu Rao"', '"Madhur Rao"']
-['711', '1960', '"10204"', '"West Bengal Medical Council"', '"Chakrabarti Dhirendramohan"', 'null']
-['712', '1960', '"10205"', '"Madras Medical Council"', '"Veera Pratap Kumar Yelamanchi"', '"Kanthaiah"']
-['713', '1960', '"10205"', '"West Bengal Medical Council"', '"Bhattacharyya Upendranath"', 'null']
-['714', '1960', '"10206"', '"Madras Medical Council"', '"Balachandran Govinda"', '"B Govindan"']
-['715', '1960', '"10206"', '"West Bengal Medical Council"', '"Deb Phanindranarayan"', 'null']
-['716', '1960', '"10207"', '"Madras Medical Council"', '"Venkata Reddy Wathada"', '"W Swamy Naidu"']
-['717', '1960', '"10207"', '"West Bengal Medical Council"', '"Majumdar Sasirkanti"', 'null']
-['718', '1960', '"10208"', '"Madras Medical Council"', '"Tirumala Rao Chaganti"', '"C Sambaiya Pantulu"']
-['719', '1960', '"10208"', '"West Bengal Medical Council"', '"Ray Biswanath"', 'null']
-['720', '1960', '"10209"', '"Madras Medical Council"', '"Burghall Frank Wilton"', '"C Burgshall"']
-['721', '1960', '"10209"', '"West Bengal Medical Council"', '"Ray Chaudhuri Ajitsankar"', 'null']
-['722', '1960', '"1021"', '"Andhra Pradesh Medical Council"', '"Mohamed Nuruddin"', '"Md Badsha Mohddin"']
-['723', '1960', '"1021"', '"Assam Medical Council"', '"Ray Jatindra Narayan"', 'null']
-['724', '1960', '"1021"', '"Bihar Medical Council"', '"Malick Pramathanath"', 'null']
-['725', '1960', '"1021"', '"Bombay Medical Council"', '"Bakshi Narsingprasad Amritlal"', 'null']
-['726', '1960', '"1021"', '"Hyderabad Medical Council"', '"Komanduri Kutumba Narayancharulu"', '"Rangacharyulu Komadduri"']
-['727', '1960', '"1021"', '"Mysore Medical Council"', '"Subbe Gowda G M"', '"Manje Gowda"']
-['728', '1960', '"1021"', '"Orissa Council of Medical Registration"', '"Ghosh Nirmala Miss."', 'null']
-['729', '1960', '"1021"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Sudhakaran Thoompail Kochitty Kochitty"', 'null']
-['730', '1960', '"10210"', '"Bombay Medical Council"', '"Kamat Vasant Anant"', 'null']
-['731', '1960', '"10210"', '"Madras Medical Council"', '"Subramaniam Coimbatore Surya Narayana Ven"', '"Dr. C Suuyanarayana Sarma"']
-['732', '1960', '"10211"', '"Bombay Medical Council"', '"Mehta Thakershi Khushaldas"', 'null']
-['733', '1960', '"10211"', '"Madras Medical Council"', '"Lloyd D`Silva Joseph"', '"P L Lloyd D`Silva"']
-['734', '1960', '"10211"', '"West Bengal Medical Council"', '"Datta Jatindranath"', 'null']
-['735', '1960', '"10212"', '"Bombay Medical Council"', '"Vadhar Amritlal Laxmi Chand"', 'null']
-['736', '1960', '"10212"', '"Madras Medical Council"', '"Mohamed Jaffer Khan"', '"C Abdul Rasheed Khan"']
-['737', '1960', '"10212"', '"West Bengal Medical Council"', '"Ray Pasupati"', 'null']
-['738', '1960', '"10213"', '"Madras Medical Council"', '"Balakrishnan Elumalai"', '"N Elumalai Chetty"']
-['739', '1960', '"10213"', '"West Bengal Medical Council"', '"Adhikari Jatindramohan"', 'null']
-['740', '1960', '"10214"', '"Bombay Medical Council"', '"Merchant Gopal Varjivandas"', 'null']
-['741', '1960', '"10214"', '"Madras Medical Council"', '"Palani Palyam Murugiah Chetty"', '"P V Murugiah Chettiar"']
-['742', '1960', '"10214"', '"West Bengal Medical Council"', '"Dasupta Atulchandra"', 'null']
-['743', '1960', '"10215"', '"Bombay Medical Council"', '"Chinwalla Hooseni Goolamally"', 'null']
-['744', '1960', '"10215"', '"Madras Medical Council"', '"Prakash Mahavir"', '"L Dhanpat Rai"']
-['745', '1960', '"10215"', '"West Bengal Medical Council"', '"Sengupta Jyotiranjan"', 'null']
-['746', '1960', '"10216"', '"Bombay Medical Council"', '"Ranade Madhusudan Atmaram"', 'null']
-['747', '1960', '"10216"', '"Madras Medical Council"', '"Lazarus Hope Diana"', '"Dr. J Lazarus"']
-['748', '1960', '"10216"', '"West Bengal Medical Council"', '"Biswas Jitendranath"', 'null']
-['749', '1960', '"10217"', '"Bombay Medical Council"', '"Balkur Vasantnarayan Krishnappa Bhandari"', 'null']
-['750', '1960', '"10217"', '"Madras Medical Council"', '"Sivakolundu Saidapet Pachai"', '"Sp Aiyaswami"']
-['751', '1960', '"10218"', '"Bombay Medical Council"', '"Kulkarni Narayan Vaman Rao"', 'null']
-['752', '1960', '"10218"', '"Madras Medical Council"', '"Bhaskara Reddy Du Vuru"', '"D Chenga Reddy"']
-['753', '1960', '"10218"', '"West Bengal Medical Council"', '"Saha Dhirendramohan"', 'null']
-['754', '1960', '"10219"', '"Madras Medical Council"', '"Ramachander Medisetty"', '"Rao Sahib M Venkataswamy Naidu"']
-['755', '1960', '"10219"', '"West Bengal Medical Council"', '"Bashiruddin Ahmed"', 'null']
-['756', '1960', '"1022"', '"Andhra Pradesh Medical Council"', '"Sugnanam Jagannayakulu"', '"S Venkata Ranga Rao"']
-['757', '1960', '"1022"', '"Assam Medical Council"', '"Hazarika Muhibuddin Ahmed"', 'null']
-['758', '1960', '"1022"', '"Bihar Medical Council"', '"Lahiri Nalinaksya"', 'null']
-['759', '1960', '"1022"', '"Hyderabad Medical Council"', '"Laxmi Narsimha Rao"', '"T Murthianjaya Rao"']
-['760', '1960', '"1022"', '"Madras Medical Council"', '"Muttayya Devar Vedanayagam Asirvadam"', '"Vedanayagam Devar"']
-['761', '1960', '"1022"', '"Mysore Medical Council"', '"Aswath B G"', '"B Gaviappa"']
-['762', '1960', '"1022"', '"Travancore Cochin Medical Council', ' Trivandrum"', '"Ramachandran Kalyat Thazhathu Veettil"', '"A Kunhappa Nambiyar"']
-['763', '1960', '"10220"', '"Madras Medical Council"', '"Mathew Cherayil John"', '"C M John"']
-['764', '1960', '"10220"', '"West Bengal Medical Council"', '"De Satinath"', 'null']
-['765', '1960', '"10221"', '"Bombay Medical Council"', '"Ramsingani Gopal Das Anandram"', 'null']
-['766', '1960', '"10221"', '"Madras Medical Council"', '"Ramadas Velamati"', '"V Sreemannarayanamurty"']
-['767', '1960', '"10221"', '"West Bengal Medical Council"', '"Mukhjopadhyay Priyagopal"', 'null']
-['768', '1960', '"10222"', '"Madras Medical Council"', '"Sambasiva Rao Koka"', '"Dr. K Chalapathi Rao"']
-['769', '1960', '"10222"', '"West Bengal Medical Council"', '"Bandhopadhyaya Balaram"', 'null']
-['770', '1960', '"10223"', '"Madras Medical Council"', '"Jacob Albert Wilson"', '"J E Jacob"']
+1, 1931, 3608, Maharashtra Medical Council, BHOYAR MISS PALLAVI GAJANAN, null
+2, 1939, 39439, Punjab Medical Council, Puneet Katuria, Sh. Prem Sagar Kathuria
+3, 1953, 26609, Medical Council of India, singh gurpreet, gurbax singh khadial
+4, 1953, 36375, Bihar Medical Council, Vishwa Mohan Kumar, Late Ram Chandra Prasad Singh
+5, 1953, G-36076, Gujarat Medical Council, NUS GOYAL BABITA GORALAL, null
+6, 1957, 6137, Bihar Medical Council, Md. Khurshidul Haque, Masudul Haque
+7, 1957, E.P.3437, Punjab Medical Council, SATIJA.YASH PAUL, SHAM SINGH SATIJA
+8, 1960, 1, Andhra Pradesh Medical Council, Yellamraju Suryanarayanarao Seshachalam, Y Seshachalam
+9, 1960, 1, Bihar Medical Council, Dutta Sashi Bhushan, null
+10, 1960, 1, Hyderabad Medical Council, Hyder Ali Khan Hazi, Hakeem Dadie Ali Khan
+11, 1960, 1, Maharashtra Medical Council, Mcclure Robert Baird, Dr. William Mcclure
+12, 1960, 1, Rajasthan Medical Council, Gnagwal Tara Chand, L Hazarilal Gangwal
+13, 1960, 1, Travancore Cochin Medical Council Trivandrum, Salvadore Christian Captain, F Salvadort
+14, 1960, 1, Vidharba Medical Council, Bagherwal Krishna Dagdool, Dagdool Rambax Bagherwal
+15, 1960, 10, Assam Medical Council, Das Kali Kumar, null
+16, 1960, 10, Maharashtra Medical Council, Laad Ramakant, Dr. Mishri Lal Ram Charan Laad
+17, 1960, 10, Mysore Medical Council, Narasimha Iyengar K, Keshavachar
+18, 1960, 10, Orissa Council of Medical Registration, Abedin Muhammad Zainul, null
+19, 1960, 10, Rajasthan Medical Council, Sharma Roopkishore, Dr. Ram Prataji
+20, 1960, 10, Travancore Cochin Medical Council Trivandrum, Madhusoodanan Sankaran, Sankaran K
+21, 1960, 100, Andhra Pradesh Medical Council, Budhvarapu Krishna Rao, Bk Sayanapantulu
+22, 1960, 100, Assam Medical Council, Majumder Surendra Chandra, null
+23, 1960, 100, Bihar Medical Council, Mukherjee Priya Nath, null
+24, 1960, 100, Bombay Medical Council, Poredi Ramchandra Shivaji, null
+25, 1960, 100, Hyderabad Medical Council, Ali Khan Abdul, Nawab Latif Yarjung
+26, 1960, 100, Madhya Pradesh Medical Council, Ahuja N K, M K Ahuja
+27, 1960, 100, Rajasthan Medical Council, Pandya Manohar Lal, Pt Heeralal
+28, 1960, 100, Travancore Cochin Medical Council Trivandrum, Padmanabha Pillai Kolasseril Iyappan P, Iyappan Pillai
+29, 1960, 100, Vidharba Medical Council, Mishra Devendra Kumar, Raghubir Prasad Mishra
+30, 1960, 100, West Bengal Medical Council, Bhaumik Nilkanta, null
+31, 1960, 1000, Andhra Pradesh Medical Council, Bonda Radha Krishna, B Sankararao
+32, 1960, 1000, Assam Medical Council, Roy Sash Bhusan, null
+33, 1960, 1000, Bihar Medical Council, Mukherjee Arunoday, null
+34, 1960, 1000, Bombay Medical Council, Mehta Sorab Pherozshah, null
+35, 1960, 1000, Hyderabad Medical Council, Rayanchi Naga Bhushanam, R Lingaiah
+36, 1960, 1000, Mysore Medical Council, Gundappa Malavalli Puttramaih, B Puttaramaiah
+37, 1960, 1000, Orissa Council of Medical Registration, Bandhopadhyaya Haripada, null
+38, 1960, 1000, Travancore Cochin Medical Council Trivandrum, Populose Kattadiyil Poulose, Poulose
+39, 1960, 1000, Uttar Pradesh Medical Council, Bansikar Ram Narain, Shiwamber Lal
+40, 1960, 1000, West Bengal Medical Council, Mandal Hrishikes, null
+41, 1960, 10000, Bombay Medical Council, Sharma Mrs. Lilavati Chandrakant, null
+42, 1960, 10000, Madras Medical Council, Taylor Ronald Yeldham Major, H M Taylor
+43, 1960, 10000, West Bengal Medical Council, Biswas Asutosh, null
+44, 1960, 10001, Bombay Medical Council, Kale Mahadeo Yeshwant, null
+45, 1960, 10001, Madras Medical Council, Raghava Rao Gundumalla, Narasimhaswamy
+46, 1960, 10002, Bombay Medical Council, Bhore Jayawant Narayan, null
+47, 1960, 10002, Madras Medical Council, Govindaswami Chinnaswami, Chinnaswami
+48, 1960, 10002, West Bengal Medical Council, Baksi Bibhutibushan, null
+49, 1960, 10003, Bombay Medical Council, Gupta Gopal Das Lalubhai, null
+50, 1960, 10003, Madras Medical Council, Nabhiraja Ariga Padnoor, P Padmaraja Ariga
+51, 1960, 10003, West Bengal Medical Council, Datta Rameshcahndra, null
+52, 1960, 10004, Bombay Medical Council, Desai Balvantrai Mani Nhai, null
+53, 1960, 10004, Madras Medical Council, Gnanam Miss. Rose Anna Mary, S G Gnanam
+54, 1960, 10004, West Bengal Medical Council, Pal Dulal Chandra, null
+55, 1960, 10005, Bombay Medical Council, Pardasaney Sobhraj Nanikram, null
+56, 1960, 10005, Madras Medical Council, Sukumaran Krishnan, Krishnan
+57, 1960, 10006, Madras Medical Council, Thaliath Miss. Lucy Joseph, J Thaliath
+58, 1960, 10007, Bombay Medical Council, Bhopatkar Charuchandra Laxman, null
+59, 1960, 10007, West Bengal Medical Council, Mukhopadhyay Amulyaratan, null
+60, 1960, 10008, Bombay Medical Council, Mangaokar Kash Nath Vishnu, null
+61, 1960, 10008, Madras Medical Council, Ramchandra Nayak Sujir, Vasudeva Nayak Sujire
+62, 1960, 10008, West Bengal Medical Council, Das Mohinmohan, null
+63, 1960, 10009, Madras Medical Council, Ranganadha Raju Mudumudi, M Lakshmipathi Raju
+64, 1960, 10009, West Bengal Medical Council, Datta Debendramohan, null
+65, 1960, 1001, Hyderabad Medical Council, Hafeezuz Rahman, Mohd Ali Shareef
+66, 1960, 1001, Mysore Medical Council, Abdul Aleem Holehonnur, H Gulam Mustafa
+67, 1960, 1001, Orissa Council of Medical Registration, Pal Bibhutibhushan, null
+68, 1960, 1001, Travancore Cochin Medical Council Trivandrum, Poulose Ktuttikatt Paul, K J Paul
+69, 1960, 10010, Bombay Medical Council, Sheth Shantilal Natha Lal, null
+70, 1960, 10010, Madras Medical Council, Somanna Yenamandra, Papayya Sastri
+71, 1960, 10010, West Bengal Medical Council, Bhattacharyya Satyabrata, null
+72, 1960, 10011, Bombay Medical Council, Kothari Kolatchand Jivraj, null
+73, 1960, 10011, Madras Medical Council, Anantaraman Krishnier, Krishnier
+74, 1960, 10011, West Bengal Medical Council, Das Syamakanta, null
+75, 1960, 10012, Bombay Medical Council, Wadhwani Mrs. Kalavati Methram, null
+76, 1960, 10012, Madras Medical Council, Madhava Menon Kandayath, Kunjunni Menon
+77, 1960, 10012, West Bengal Medical Council, Abdul Quasem, null
+78, 1960, 10013, Bombay Medical Council, Kulkarni Ramchandra Hanamant, null
+79, 1960, 10013, Mysore Medical Council, Papa Rao Chalssani, C Kottayya
+80, 1960, 10013, West Bengal Medical Council, Basak Birendrakumar, null
+81, 1960, 10014, Bombay Medical Council, Biliangady Nandikeshwar Weerappa, null
+82, 1960, 10014, Madras Medical Council, Stephens Denzil Stanhope Bamford, P H Stephens
+83, 1960, 10014, West Bengal Medical Council, Saha Haripada, null
+84, 1960, 10015, Bombay Medical Council, Gandhi Laxmindas Bhagawan Das, null
+85, 1960, 10015, Madras Medical Council, Gangaprasad Rana, Ghanshyam Rana
+86, 1960, 10015, West Bengal Medical Council, Copeland Francis John, null
+87, 1960, 10016, Bombay Medical Council, Gandhi Bhogi Lal Prabhudas, null
+88, 1960, 10016, Madras Medical Council, Senthumadhava Rao Nimmagadda, N Chalamayya
+89, 1960, 10016, West Bengal Medical Council, Bagchi Nareshchandra, null
+90, 1960, 10017, Bombay Medical Council, Vasavada Raghukant Kundan Lal, null
+91, 1960, 10017, Madras Medical Council, Arokiswamy Savarimutyu, Savarimuthu
+92, 1960, 10017, West Bengal Medical Council, Bhatacharyya Dhirendranath, null
+93, 1960, 10018, Bombay Medical Council, Thacker Thakershi Atmaram, null
+94, 1960, 10018, Madras Medical Council, Sobhanadri Chaparala, C Seetharamaswami
+95, 1960, 10019, Bombay Medical Council, Abdulpur Veerpa Veerabhadrappa, null
+96, 1960, 10019, Madras Medical Council, Enkataseetha Miss. Muktevi, M Perumalliah
+97, 1960, 10019, West Bengal Medical Council, Sharma Chaitram, null
+98, 1960, 1002, Andhra Pradesh Medical Council, Muntha Nagarajasundara Murthy, M Koteswara Rao
+99, 1960, 1002, Hyderabad Medical Council, Syed Abdus Samad, Syed Abdus Saleem
+100, 1960, 1002, Madras Medical Council, Raja Rathinam John, J Joshua
+101, 1960, 1002, Mysore Medical Council, Narasimha Murthy M S, M Shama Rao
+102, 1960, 1002, Orissa Council of Medical Registration, Saha Bansimohan, null
+103, 1960, 1002, Travancore Cochin Medical Council Trivandrum, Bharathan Vasudevan, Vasudevan
+104, 1960, 1002, West Bengal Medical Council, Mitra Dhirendranath, null
+105, 1960, 10020, Madras Medical Council, Bal Saroop, Dhaulat Ram Sud
+106, 1960, 10021, Bombay Medical Council, Dabholkar Shrikrishna Narayan, null
+107, 1960, 10021, Madras Medical Council, Rama Prasad Sauhta, Sadhoo Ram
+108, 1960, 10021, West Bengal Medical Council, Mukhopadhyay Ajitkumar, null
+109, 1960, 10022, Bombay Medical Council, Sodha Mulji Mohanlal, null
+110, 1960, 10022, Madras Medical Council, Ramachandran Nataraja, J Nataraja Iyer
+111, 1960, 10022, West Bengal Medical Council, Bid Saratchandara, null
+112, 1960, 10023, Bombay Medical Council, Chandananey Tirath Kimatrai, null
+113, 1960, 10023, Madras Medical Council, Venkatesan Mandakolathur Ramachandran, Ms Ramachandran
+114, 1960, 10023, West Bengal Medical Council, Hore Himansubimal, null
+115, 1960, 10024, Bombay Medical Council, Shah Ghanshyam Baldevdas, null
+116, 1960, 10024, Madras Medical Council, Savarimuthu Daniel David, Savarimuthu
+117, 1960, 10024, West Bengal Medical Council, Ghoshal Ganeshchandra, null
+118, 1960, 10025, Bombay Medical Council, Saraiya Jayanti Lal Manilal, null
+119, 1960, 10025, Madras Medical Council, Subhadra Devi Miss. G, G Venkat Rao
+120, 1960, 10026, Bombay Medical Council, Shah Maneklal Gulab Chand, null
+121, 1960, 10026, Madras Medical Council, Samuel Miss. Sophia John, J Samuel
+122, 1960, 10026, West Bengal Medical Council, Chaudhuri Sambhu Nath, null
+123, 1960, 10027, Bombay Medical Council, Kothapalli Narasimaha Reddy, Kothappalli Ramachandra Reddy K D A
+124, 1960, 10027, Madras Medical Council, Abraham Allimuttil Paul, A A Paul
+125, 1960, 10027, West Bengal Medical Council, Pal Rabindra Nath, null
+126, 1960, 10028, Bombay Medical Council, Mendha Prabhudas Kanji Bhai, null
+127, 1960, 10028, Madras Medical Council, Brundaban Chandradas, Dinabandhu Das
+128, 1960, 10028, West Bengal Medical Council, Chattoraj Radha Nath, null
+129, 1960, 10029, Bombay Medical Council, Champaneri Manilal Purushottamdas, null
+130, 1960, 10029, Madras Medical Council, Grant Willoughby Gordon, A Grant
+131, 1960, 10029, West Bengal Medical Council, Raha Nanigopal, null
+132, 1960, 1003, Andhra Pradesh Medical Council, Tulugu Krishnamurthy, T Venkatappala Naidu
+133, 1960, 1003, Assam Medical Council, Ahmed Akhtaruddin, null
+134, 1960, 1003, Bihar Medical Council, Sen Gupta Debendra Nath, null
+135, 1960, 1003, Hyderabad Medical Council, Soanker Kishen Rao, Gopal Rao Soanker
+136, 1960, 1003, Mysore Medical Council, Raghavan Bindiganavale, B Garudachar
+137, 1960, 1003, Orissa Council of Medical Registration, Ray Amalendu, null
+138, 1960, 1003, Travancore Cochin Medical Council Trivandrum, Dhas J K, Kjarunakaran
+139, 1960, 10030, Bombay Medical Council, Karnarkar Mrs. Pushpa Manohar, null
+140, 1960, 10030, Madras Medical Council, Gokul Chand Deedwaniyan, D Lachmi Narain
+141, 1960, 10030, West Bengal Medical Council, Ray Chaudhuri Subodhchandra, null
+142, 1960, 10031, Bombay Medical Council, Bhatt Mrs. Jyotsna Rajendra, null
+143, 1960, 10031, Madras Medical Council, Kamalnayan Tambar, T Ramachandra
+144, 1960, 10031, West Bengal Medical Council, Chakrabarti Bimalapada, null
+145, 1960, 10032, Bombay Medical Council, Haqquani Syed Abdul Hafez, null
+146, 1960, 10032, Madras Medical Council, Pardhy Anand Krishna, Parhdy Krishna Moreshwar
+147, 1960, 10032, West Bengal Medical Council, Chaudhuri Amulyagopal, null
+148, 1960, 10033, Madras Medical Council, Ramamurti Vepa, Vepa S B V Kamesam
+149, 1960, 10033, West Bengal Medical Council, Das Binayendranath B A, null
+150, 1960, 10034, Bombay Medical Council, Bopardikar Dattatraya Vishnu, null
+151, 1960, 10034, Madras Medical Council, Mohan Singh, S Pradhan Singh
+152, 1960, 10035, Bombay Medical Council, Babre Madhusudan Sakharani, null
+153, 1960, 10035, Madras Medical Council, Sarkar Himansu Kumar, Sarcar Indunath
+154, 1960, 10035, West Bengal Medical Council, Mandal Krishnapada, null
+155, 1960, 10036, Madras Medical Council, Oliver Miss. Rhona Maud, Stuart Oliver
+156, 1960, 10036, West Bengal Medical Council, Sarkar Jagadishchandra, null
+157, 1960, 10037, Bombay Medical Council, Gune Janardan Gangadhar, null
+158, 1960, 10037, Madras Medical Council, Viswanathan Shetty Abbettu, A Manjayya Shetty
+159, 1960, 10037, West Bengal Medical Council, Muhammad Hussain, null
+160, 1960, 10038, Bombay Medical Council, Gupta Sohan Lal Mannalal, null
+161, 1960, 10038, Madras Medical Council, Pal Satyendra Nath, Trailakaya Nath Paul
+162, 1960, 10038, West Bengal Medical Council, Gangopadhyay Dhirendra Nath, null
+163, 1960, 10039, Bombay Medical Council, Tanna Morarji Bhavan, null
+164, 1960, 10039, Madras Medical Council, Ramalingaswami Vulimiri, Gumpaswami Vulimiri
+165, 1960, 10039, West Bengal Medical Council, Das Annadacharan, null
+166, 1960, 1004, Andhra Pradesh Medical Council, Vaddiparthi Leelavathi, B A Kameswara Rao
+167, 1960, 1004, Assam Medical Council, Gibson David, null
+168, 1960, 1004, Bihar Medical Council, Sahai Krishnanandan, null
+169, 1960, 1004, Hyderabad Medical Council, Pamanappa Veerabhadrappa Misal, Pemanappa Misala
+170, 1960, 1004, Madras Medical Council, Ganapati Ayyar Kondangudi, K Muttuswami Ayyar
+171, 1960, 1004, Mysore Medical Council, Ayodhyanath Naib Subba Rao, Naib Subba Rao
+172, 1960, 1004, Orissa Council of Medical Registration, Ray Naliniprabha, null
+173, 1960, 1004, Travancore Cochin Medical Council Trivandrum, Abraham Benjamin, Late Benjamin Mathew
+174, 1960, 10040, Bombay Medical Council, Bhandary Adekal Bainky, null
+175, 1960, 10040, Madras Medical Council, Kuppurajan Nagavedu Balasundaram, Balasundaram Nagavedu Krishnaswami
+176, 1960, 10040, West Bengal Medical Council, Das Sukumar, null
+177, 1960, 10041, Bombay Medical Council, Yadu Brijnandan Singh, null
+178, 1960, 10041, Madras Medical Council, Malins Robert Nuttal, Malins Reobert Christy
+179, 1960, 10041, West Bengal Medical Council, Jana Praphullakumar, null
+180, 1960, 10042, Bombay Medical Council, Shahane Wasudeo Raghunath, null
+181, 1960, 10042, Madras Medical Council, Vijaya Raghavan Ramanujam, S Ramanujam
+182, 1960, 10042, West Bengal Medical Council, De Gadadhar, null
+183, 1960, 10043, Bombay Medical Council, Bheda Shankerlal Kanhaiya Lal, null
+184, 1960, 10043, Madras Medical Council, Verghese George Puthenveeti, P V George
+185, 1960, 10043, West Bengal Medical Council, De Souza Antonio George, null
+186, 1960, 10044, Bombay Medical Council, Bhonde Manohar Damodar, null
+187, 1960, 10044, Madras Medical Council, Krishnamurti Subrahmanyam, Dr. K S Subramanyam
+188, 1960, 10044, West Bengal Medical Council, Ray Satyendraprasad, null
+189, 1960, 10045, Bombay Medical Council, Ghualati Satish Chandra Sunderdass, null
+190, 1960, 10045, Madras Medical Council, Balakrishna Reddi Mukalapati, N Venkatwarlu Reddy
+191, 1960, 10045, West Bengal Medical Council, Saha Rameschandra, null
+192, 1960, 10046, Bombay Medical Council, Bhatt Mahesh Kumar Shriprasad, null
+193, 1960, 10046, Madras Medical Council, Rajagopalan Krishnamachari, R Krishnamachari
+194, 1960, 10046, West Bengal Medical Council, Basu Bimalchhandra, null
+195, 1960, 10047, Bombay Medical Council, Solanki Teekaram, null
+196, 1960, 10047, West Bengal Medical Council, Gangopadhyay Sadananda, null
+197, 1960, 10048, Madras Medical Council, Naryanaswmi Thangavelu, null
+198, 1960, 10048, West Bengal Medical Council, Chakrabarti Lalitmohan, null
+199, 1960, 10049, Bombay Medical Council, Gidwani Mrs. Mohini Harkrishin, null
+200, 1960, 10049, Madras Medical Council, Ratnaswami Ramaswmi, R Ramaswamy Mudaliyar
+201, 1960, 10049, West Bengal Medical Council, Pradhan Gundhar, null
+202, 1960, 1005, Andhra Pradesh Medical Council, Titty Rama Rao, T Balaramaiah
+203, 1960, 1005, Assam Medical Council, Bardalai Umesh Chandra, null
+204, 1960, 1005, Hyderabad Medical Council, Verkantham Narayan Reddy, Varkantham Balreddy
+205, 1960, 1005, Mysore Medical Council, Basava Raj Urs B R, B R Rudaraj Urs
+206, 1960, 1005, Orissa Council of Medical Registration, Narayan Pisharoti Kallenkari, null
+207, 1960, 1005, Travancore Cochin Medical Council Trivandrum, Raman Thevan, Thevan
+208, 1960, 10050, Bombay Medical Council, Kapadia Miss. Indira Bhogi Lal, null
+209, 1960, 10050, Madras Medical Council, Sundaram Venkatarama, M Venkata Ramayya
+210, 1960, 10050, West Bengal Medical Council, Ghosh Kanailal, null
+211, 1960, 10051, Bombay Medical Council, Redkar Ramakant Bhagawant, null
+212, 1960, 10051, Madras Medical Council, Ramachandran Madras Subrahmanya Ayyar, Rao Sahib J R Subrahmanya Ayyar
+213, 1960, 10052, Madras Medical Council, Seshachary Tlirupati Komandur, T K L Narasimhachary
+214, 1960, 10052, West Bengal Medical Council, Pramanik Aswinikumar, null
+215, 1960, 10053, Bombay Medical Council, Vyawahare Ramchandra Ranganath, null
+216, 1960, 10053, Madras Medical Council, Roe Terrence Noel Cyril, Roe Terrence Cyril Michael
+217, 1960, 10053, West Bengal Medical Council, Syed Mozammuel Hossain, null
+218, 1960, 10054, Madras Medical Council, Qttamann Edmond Walter, Ottamann Gerald Walter
+219, 1960, 10055, Bombay Medical Council, Nahar Mohanlal Lakshmichand, null
+220, 1960, 10055, Madras Medical Council, Subbarathnam Coimbatore Ramaswamy, C S Ramaswamy Iyer
+221, 1960, 10055, West Bengal Medical Council, Chakrabarti Amulyakanta, null
+222, 1960, 10056, Madras Medical Council, Raghavan Apasamy, S Appasmy Iyengar
+223, 1960, 10057, Bombay Medical Council, Gune Srivasta Mahadeo, null
+224, 1960, 10057, Madras Medical Council, Anantan Nair Puthenvittil, Kunhappa Nair
+225, 1960, 10057, West Bengal Medical Council, Sood R P, Ramprasad
+226, 1960, 10058, Madras Medical Council, Rajendra Rao Yalmanchi, Y Venkayya
+227, 1960, 10058, West Bengal Medical Council, Bandhopadhyaya Harendranath, null
+228, 1960, 10059, Bombay Medical Council, Thakur Mohanlal Fulji, null
+229, 1960, 10059, Madras Medical Council, Bhaskar Reddi Cheemalavagupalli, C Balaranga Reddy
+230, 1960, 10059, West Bengal Medical Council, Bandhopadhyaya Haripada, null
+231, 1960, 1006, Andhra Pradesh Medical Council, Killampalli Brahmanand Rao, K Vallabha Rao
+232, 1960, 1006, Assam Medical Council, Rahaman Nuru, null
+233, 1960, 1006, Bombay Medical Council, Husain Ibrahim Abdul, null
+234, 1960, 1006, Hyderabad Medical Council, Hoskar Setu Ram Rao, Advi Rao Hosker
+235, 1960, 1006, Madras Medical Council, D`Vaz Henry Philip, J A D`Vaz
+236, 1960, 1006, Mysore Medical Council, Ramanuja Iyengar H V, H S Venkata Ranga Iyengar
+237, 1960, 1006, Orissa Council of Medical Registration, Basu Santosh Kumar, null
+238, 1960, 1006, Travancore Cochin Medical Council Trivandrum, Abraham Mosses, Rev Fr Moses V I
+239, 1960, 10060, Bombay Medical Council, Ankalikar Vishwanath Pandurangarao, null
+240, 1960, 10060, Madhya Pradesh Medical Council, Gupta Bankat Lal, Anandilal Gupta
+241, 1960, 10060, Madras Medical Council, Surya Narayan Kopparty, K Ramachandra Rao
+242, 1960, 10061, Bombay Medical Council, Shah Ramnalal Chunilal, null
+243, 1960, 10061, Madras Medical Council, Gopalakrishnayya Lingam, L Satyanarayana
+244, 1960, 10061, West Bengal Medical Council, Sallu M Obadiah, null
+245, 1960, 10062, Bombay Medical Council, Mohammad Quasim Ali, null
+246, 1960, 10062, Madras Medical Council, D`Costa Roche Frances, C M D`Costa
+247, 1960, 10062, West Bengal Medical Council, Mal Manmathanath, null
+248, 1960, 10063, Madras Medical Council, Gideon Hubert Babu, L Gideon
+249, 1960, 10063, West Bengal Medical Council, Sur Lalitkumar, null
+250, 1960, 10064, Bombay Medical Council, Patel Lalitbhai Morarrji, null
+251, 1960, 10064, Madras Medical Council, Azizullah Mohammed Shariff, Mohammed Shariff
+252, 1960, 10064, West Bengal Medical Council, Indra Kala Chand, null
+253, 1960, 10065, Bombay Medical Council, Dodial Mani Lal Jagjivam, null
+254, 1960, 10065, Madras Medical Council, Durgiah Nagella, N Venkanna Devar
+255, 1960, 10065, West Bengal Medical Council, Saha Jogendrakumar, null
+256, 1960, 10066, Bombay Medical Council, Thakar Kundan Lal Ramkrishna, null
+257, 1960, 10066, Madras Medical Council, Sivaiya Mulbagal, M Nanjunadappa
+258, 1960, 10066, West Bengal Medical Council, Ghoshal Tinkari, null
+259, 1960, 10067, Bombay Medical Council, Sharma Pinakey Prasad, null
+260, 1960, 10067, Madras Medical Council, Balasubramanian Somasundranadar, S Somasundarandar
+261, 1960, 10067, West Bengal Medical Council, Mafizuddin Sakar, null
+262, 1960, 10068, Bombay Medical Council, Vartak Miss. Durga Mahadeo, null
+263, 1960, 10068, Madras Medical Council, Subrahmaniam Madurai Viswanathan, K S Viswanathan
+264, 1960, 10069, Bombay Medical Council, Mokashi Miss. Shalini Vithal, null
+265, 1960, 10069, Madras Medical Council, Ethirajulu Galla, Subbarayudu
+266, 1960, 10069, West Bengal Medical Council, Md Yousuffali Miah, null
+267, 1960, 1007, Andhra Pradesh Medical Council, Desai Viswantha Reddi, null
+268, 1960, 1007, Assam Medical Council, Quadir Abdul, null
+269, 1960, 1007, Bihar Medical Council, Ghohs Radhika Prasad, null
+270, 1960, 1007, Hyderabad Medical Council, Mirza Khasim Ali, Mirza Parwarish Ali Baig
+271, 1960, 1007, Mysore Medical Council, Lakshminarasimha Murthy Rao D, D B Narasimbamurthy Rao
+272, 1960, 1007, Orissa Council of Medical Registration, Dei Jyotsnamayee, null
+273, 1960, 1007, Travancore Cochin Medical Council Trivandrum, Ramachandran Kunjathan, Kunjathan
+274, 1960, 10070, Bombay Medical Council, Purohit Gopi Nath, null
+275, 1960, 10070, Madras Medical Council, Venkata Subba Rao Koduri, Sambasivudu
+276, 1960, 10070, West Bengal Medical Council, Gangopadhyay Prabodhchandra, null
+277, 1960, 10071, Bombay Medical Council, Mehta Harkisondas Tribhovan Das, null
+278, 1960, 10071, Madras Medical Council, Balakrishnan Munnany, K M Kunhiraman Nayar
+279, 1960, 10071, West Bengal Medical Council, Basu Santosh Kumar, null
+280, 1960, 10072, Madras Medical Council, Jacob Emmatty Rappai, D L Rappai
+281, 1960, 10072, West Bengal Medical Council, Srivastava Durgaprasad, null
+282, 1960, 10073, Bombay Medical Council, Dave Morlidhar Narayan, null
+283, 1960, 10073, Madras Medical Council, Vijaya Raghavan Raman Thandassery, T Raman
+284, 1960, 10073, West Bengal Medical Council, Basu Tulsicharan, null
+285, 1960, 10074, Madras Medical Council, Raja Ram Mohan Rao Kommareddi, Satyanarayanamurthy
+286, 1960, 10074, West Bengal Medical Council, Ray Syakmchand, null
+287, 1960, 10075, Bombay Medical Council, Chatpar Parmanand Jethanand, null
+288, 1960, 10075, Madras Medical Council, Jayanarasimhalu Thummulakunta, T Narasimbalu Chetty
+289, 1960, 10076, Bombay Medical Council, Datta Nagendra Nath, null
+290, 1960, 10076, Madras Medical Council, Subba Rao Varanasi Venkata, V Ramabrahamam
+291, 1960, 10076, West Bengal Medical Council, Sinha Madhusudan, null
+292, 1960, 10077, Bombay Medical Council, Gupta Gopal Krishna, null
+293, 1960, 10077, Madras Medical Council, Khursheed Ara Begum, Mohdayood Khan
+294, 1960, 10078, Bombay Medical Council, Bandhopadhyaya Paritoshkukmar, null
+295, 1960, 10078, Madras Medical Council, Rama Rao Kotamarti, K Achutaramaiah
+296, 1960, 10079, Bombay Medical Council, Hadkar Miss. Sumati Ganesh, null
+297, 1960, 10079, Madras Medical Council, Rajvalakshmi Guntur, G Thirupathi Rao
+298, 1960, 10079, West Bengal Medical Council, Chaudhuri Taraksas, null
+299, 1960, 1008, Andhra Pradesh Medical Council, Pallapati Pranbhakara Raju, P Raju
+300, 1960, 1008, Bihar Medical Council, Rasheed Abdul, null
+301, 1960, 1008, Hyderabad Medical Council, Bansi Lal Panhani, K M Ramlal
+302, 1960, 1008, Mysore Medical Council, Saldhana J A M, Salvadore Anthony Saldhana
+303, 1960, 1008, Orissa Council of Medical Registration, Kar Rohin Nandan, null
+304, 1960, 1008, Travancore Cochin Medical Council Trivandrum, Parameshwaran Raamalingier, R Ramalinga Iyer
+305, 1960, 1008, Uttar Pradesh Medical Council, Ganguli Radha Raman, Priya Nath Gangopadhyay
+306, 1960, 10080, Bombay Medical Council, Bhatt Miss. Mahashweta Vithalray, null
+307, 1960, 10080, Madras Medical Council, Sarla Devi Padmanabhan, Dr. C K Padmanabhan
+308, 1960, 10080, West Bengal Medical Council, Ghosh Poanchkari, null
+309, 1960, 10081, Bombay Medical Council, Trivedi Vishwanath Narayan, null
+310, 1960, 10081, Madras Medical Council, Krishnan Sanaranayanan, K Sankaranarayanan Pillai
+311, 1960, 10081, West Bengal Medical Council, Mukhopadhyay Indubhushan, null
+312, 1960, 10082, Bombay Medical Council, Senjit Mrs. Malti Motiram, null
+313, 1960, 10082, Madras Medical Council, D`Netto Trevor Boniface, D`Netto Bonifacde
+314, 1960, 10082, West Bengal Medical Council, Ray Chandra Kanta, null
+315, 1960, 10083, Madras Medical Council, Ramachandran Subrahmanyam, B A Subrahmanyam Chettiar
+316, 1960, 10083, West Bengal Medical Council, Saha Binaykrishna, null
+317, 1960, 10084, Madras Medical Council, Krishnaswami Krishna Varachari, K Varadachari
+318, 1960, 10084, West Bengal Medical Council, Nandi Becha Ram B Sc, null
+319, 1960, 10085, Madras Medical Council, Mohan Das Pai Kochikar, Padmanabha Pai
+320, 1960, 10085, West Bengal Medical Council, Chattopadhyay Nitindranath, null
+321, 1960, 10086, Madras Medical Council, Lakshmi Narayanan Vaiganellore Naganathan, Dr. V V Naganathan
+322, 1960, 10086, West Bengal Medical Council, Ray Barindranath, null
+323, 1960, 10087, Bombay Medical Council, Vaidya Malati Mrs. Madhav, null
+324, 1960, 10087, Madras Medical Council, Toayuman Rajoo, Dr. T D Rajoo
+325, 1960, 10087, West Bengal Medical Council, Saha Hemendrakumar, null
+326, 1960, 10088, Bombay Medical Council, Shah Chhota Lal Bhaichand, null
+327, 1960, 10088, Madras Medical Council, Sundaravenkatakrisnan Subramania Ayyar, A Subrmania Ayar
+328, 1960, 10089, Bombay Medical Council, Razdon Manmohan, null
+329, 1960, 10089, Madras Medical Council, Ranganayaki Mrs. Jayaraman, Ms Srinivasan
+330, 1960, 10089, West Bengal Medical Council, Gupta Bimalapati, null
+331, 1960, 1009, Andhra Pradesh Medical Council, Mithilesh Buddavarapu, B Paparaju
+332, 1960, 1009, Assam Medical Council, Sengupta Promode Ranjan, null
+333, 1960, 1009, Hyderabad Medical Council, Bindiganavali Krishna Iyengar, B Krishna Iyengar
+334, 1960, 1009, Mysore Medical Council, Siddaiah Subbaiah, Malige Subbaiah
+335, 1960, 1009, Orissa Council of Medical Registration, Bhattacharyya Krishnajiban, null
+336, 1960, 1009, Travancore Cochin Medical Council Trivandrum, Bhaskaran Paraprath Madayambiath, P K Anandan
+337, 1960, 10090, Bombay Medical Council, Anklesaria Rustomji Dhanjisha Edalji, null
+338, 1960, 10090, Madras Medical Council, Ishwariah Miss. Florence Suhasini, W M Ishwariah
+339, 1960, 10090, West Bengal Medical Council, Saha Satkari, null
+340, 1960, 10091, Bombay Medical Council, Vyas Ratilal T Rambaklal, null
+341, 1960, 10091, Madras Medical Council, Sundareswara Ayyar Harihara Ayyar, V Harihara Ayyar
+342, 1960, 10092, Madras Medical Council, Balaguruswami Subramania Nadar, R Subramaania Nadar
+343, 1960, 10092, West Bengal Medical Council, Pande Surendralal, null
+344, 1960, 10093, Madras Medical Council, Muhammad Oosman, M Mukthum Sahib
+345, 1960, 10094, Madras Medical Council, Radha Krishna Shenoy Ranjal, V V Shenoy
+346, 1960, 10094, West Bengal Medical Council, Datta Rampada, null
+347, 1960, 10095, Madras Medical Council, Sarojini Mrs. Nair Villambil, Mg Nair
+348, 1960, 10095, West Bengal Medical Council, Gupta Bimalendu, null
+349, 1960, 10096, Madras Medical Council, Ramamurti Pennathur, Captain. P Krishnaswami
+350, 1960, 10096, West Bengal Medical Council, Fazlur Rahman, null
+351, 1960, 10097, Madras Medical Council, Srinivasan Venkataramana Iyerudamalpet, U S Venkattaramana Iyer
+352, 1960, 10098, Madras Medical Council, Rmakrishna Getuty, G Venkatapathy Naidu
+353, 1960, 10098, West Bengal Medical Council, Maitra Maniklal, null
+354, 1960, 10099, Madras Medical Council, Muhammad Ghouse Mohi - Ud - Din, Ghulam Muhammad
+355, 1960, 100/RR, Bombay Medical Council, Krishnaswamy Kamkuduthavanitham Santhana, null
+356, 1960, 101, Andhra Pradesh Medical Council, Julure Krishna Rao Venkata, Venkata Ramayya
+357, 1960, 101, Madhya Pradesh Medical Council, Pahwa P N, J N Pahwa
+358, 1960, 101, Mysore Medical Council, Ramaswamy M S, Mysore Sreenivasaiyengar
+359, 1960, 101, Rajasthan Medical Council, Mathur Govind Lal, Ganeshi Lal
+360, 1960, 101, Travancore Cochin Medical Council Trivandrum, George Puthenpurackal Chacko, Chacko
+361, 1960, 1010, Andhra Pradesh Medical Council, Kandeput Krishna Sastri Venkata, K Subramanayam L M P
+362, 1960, 1010, Hyderabad Medical Council, Bhargawa Kailash Nath Rai, Rai Baijnath Bhargawa
+363, 1960, 1010, Madras Medical Council, Surya Narayana Nayudu Ancucoory, A Swami Nayudu
+364, 1960, 1010, Mysore Medical Council, Mahomed Jaffer A, Hakkim Alipeer Sahib
+365, 1960, 1010, Orissa Council of Medical Registration, Mukhopadhyay Sambhu Nath, null
+366, 1960, 1010, Travancore Cochin Medical Council Trivandrum, Lalitha Kesavan, C O Kesavan
+367, 1960, 10100, Bombay Medical Council, Pandya Bhaishanker Harjivan, null
+368, 1960, 10100, Madras Medical Council, Ramasubrahmanyan Anantanarayananan, Dr. A L Anantanarayanan
+369, 1960, 10100, West Bengal Medical Council, Dattagupta Makhanlal, null
+370, 1960, 10101, Bombay Medical Council, Mani Valanjatil Mani, null
+371, 1960, 10101, Madras Medical Council, Chandrasekharan Kalayambathur Sunder Raj, K R Sunder Raja
+372, 1960, 10102, Bombay Medical Council, Mathakai Kanti Lal Harjivan, null
+373, 1960, 10102, Madras Medical Council, Surya Narayana Renduchintala, Subba Rao
+374, 1960, 10103, Bombay Medical Council, Dhruva Harshad Ray Bapalal, null
+375, 1960, 10103, Madras Medical Council, Sriraman Jayanti, Ramamurti
+376, 1960, 10104, Bombay Medical Council, Pratap Jamna Das Purshottamdas, null
+377, 1960, 10104, Madras Medical Council, Gendalal Jain, Ramasa
+378, 1960, 10104, West Bengal Medical Council, Pramanik Tarapada, null
+379, 1960, 10105, Bombay Medical Council, Raval Vasudeo Jagannath, null
+380, 1960, 10105, Madras Medical Council, Parasu Raman Chalat Rama Iyer, C S Rama Iyer
+381, 1960, 10105, West Bengal Medical Council, Md Abdul Karim, null
+382, 1960, 10106, Madras Medical Council, Ittikuru Cheeran Ipe, C P Ipe
+383, 1960, 10107, Madras Medical Council, Anantanarayanan Karuppathu Venkataraman, K R Venkatarama Iyer
+384, 1960, 10107, West Bengal Medical Council, Sahamandal Sudhendusndar, null
+385, 1960, 10108, Madras Medical Council, Venkata Rao Bhola, B Dayananda Rao
+386, 1960, 10108, West Bengal Medical Council, Saha Surendranath, null
+387, 1960, 10109, Madras Medical Council, David Miss. Lily, David Tharakan
+388, 1960, 10109, West Bengal Medical Council, Bagchi Mahendramohan, null
+389, 1960, 1011, Andhra Pradesh Medical Council, Kasibhatla Ramalinga Sastry, K L Narasimha Rao
+390, 1960, 1011, Assam Medical Council, Debsarma Laksheswar, null
+391, 1960, 1011, Bihar Medical Council, Chakravarti Chandicahran, null
+392, 1960, 1011, Hyderabad Medical Council, Syed Hamid Hussain, Syed Sirajul Hussain
+393, 1960, 1011, Mysore Medical Council, Rama Rao P, P Rmadesayya
+394, 1960, 1011, Orissa Council of Medical Registration, Majumdar Satyendra Kumar, null
+395, 1960, 1011, Travancore Cochin Medical Council Trivandrum, Govindan Nair Raman Pillai, V R Pillai
+396, 1960, 10110, Madras Medical Council, Pereira Percival Felix Alexander, F Mp Pereira
+397, 1960, 10111, Bombay Medical Council, Tanna Tatilal Ghusalal, null
+398, 1960, 10111, Madras Medical Council, Sumitramma Nandyal, N Rangacharlu
+399, 1960, 10111, West Bengal Medical Council, Guha Kshitischandra, null
+400, 1960, 10112, Bombay Medical Council, Jinsiwale Prahlad Ram Rao, null
+401, 1960, 10112, Madras Medical Council, Gopalan Ramasubbier, V Ramasubbier
+402, 1960, 10112, West Bengal Medical Council, Das Jogeschandra, null
+403, 1960, 10113, Bombay Medical Council, Pithwa Miss. Phagirathi Jadavaji, null
+404, 1960, 10113, Madras Medical Council, Karunakara Hegde Badagabettu, B Krishnaya Hegde
+405, 1960, 10113, West Bengal Medical Council, Sengupta Amalendu, null
+406, 1960, 10114, Bombay Medical Council, Kothari Navinchandra Chiman Lal, null
+407, 1960, 10114, Madras Medical Council, Chacko Miss. Susan, Dr. M O Chacko
+408, 1960, 10114, West Bengal Medical Council, Gangopadhyay Ajitchandra, null
+409, 1960, 10115, Bombay Medical Council, Karandikar Babu Rao Vithal, null
+410, 1960, 10115, Madras Medical Council, De Rsario John Oswald Laurence, W H Deo Rosario
+411, 1960, 10116, Bombay Medical Council, Tayshetye Bhaskar Ramchandra, null
+412, 1960, 10116, Madras Medical Council, Sridevi Miss. Pradinharan Kounnath T, K Kunhunni Nayar
+413, 1960, 10116, West Bengal Medical Council, Das Harendra Chandra, null
+414, 1960, 10117, Madras Medical Council, Sucharita Miss. Doraiswami, Dr. E M Doraiswami
+415, 1960, 10117, West Bengal Medical Council, Md Azizur Rahman, null
+416, 1960, 10118, Bombay Medical Council, Sonagra Purushotam Devji Bhai, null
+417, 1960, 10118, Madras Medical Council, Radha Krishnan Neelakandan, B Neelakandan
+418, 1960, 10118, West Bengal Medical Council, -, null
+419, 1960, 10119, Bombay Medical Council, Fernandes Miss. Charlotte, null
+420, 1960, 10119, Madras Medical Council, Venkatesan Narayanaswami, S Narayanaswami Aiyer
+421, 1960, 10119, West Bengal Medical Council, De Sudhir Kumar, null
+422, 1960, 1012, Andhra Pradesh Medical Council, Arikeri Sannappa, Ahusanappa
+423, 1960, 1012, Assam Medical Council, Thompson Earnest Frances, null
+424, 1960, 1012, Hyderabad Medical Council, Ghani Kazi Abdul, Kazi Abdul Latif
+425, 1960, 1012, Mysore Medical Council, Narayan A I, A Krishna Iyengar
+426, 1960, 1012, Orissa Council of Medical Registration, Bhadra Gosthalal, null
+427, 1960, 1012, Travancore Cochin Medical Council Trivandrum, Sheikh Shaffudin Ahmed Sahib Moideen, Sheikh Moideen Sahib
+428, 1960, 10120, Madras Medical Council, Natchiyappan Muthiah, Muthiah Chettiyar
+429, 1960, 10120, West Bengal Medical Council, Das Jitendra Nath, null
+430, 1960, 10121, Madras Medical Council, Muthiah Samuel, Thomas Jesudason
+431, 1960, 10121, West Bengal Medical Council, Ghosh Jibankrishna, null
+432, 1960, 10122, Madras Medical Council, Muhammad Abdus Subhan, A Akbar Shah Saheb
+433, 1960, 10122, West Bengal Medical Council, Majumdar Suhrid, null
+434, 1960, 10123, Bombay Medical Council, Mahimtura Kashinath Gajanan, null
+435, 1960, 10123, Madras Medical Council, Padmanabhan Ramaswami, Raja K Ramaswami Chettiar
+436, 1960, 10123, West Bengal Medical Council, Bhattacharyya Asutosh, null
+437, 1960, 10124, Bombay Medical Council, Montoomery Richard Hugh, null
+438, 1960, 10124, Madras Medical Council, Suseela Puchalapalli, P Venkataramman A
+439, 1960, 10124, West Bengal Medical Council, Bhattacharyya Chandruchandtra, null
+440, 1960, 10125, Madras Medical Council, Arundhathi Miss. Victoria Kolli, K V Subba Reddy
+441, 1960, 10125, West Bengal Medical Council, Ray Apurbakumar, null
+442, 1960, 10126, Bombay Medical Council, Iyer Subramani Ganapati, null
+443, 1960, 10126, Madras Medical Council, Mithilesh Miss. Kodoth, K P Kannan Nair
+444, 1960, 10126, West Bengal Medical Council, Ghosh Dhirendra Nath, null
+445, 1960, 10127, Bombay Medical Council, Sequeri Eustace Joseph, null
+446, 1960, 10127, Madras Medical Council, Narayana Rai Savanoor, null
+447, 1960, 10128, Bombay Medical Council, Nazareth Frederic Anthony, null
+448, 1960, 10128, Madras Medical Council, Nanjamma Miss. Hoskote Krishna Sastri, Rao Bahadur Krishna Sastri
+449, 1960, 10128, West Bengal Medical Council, Nayak Anil Kumar, null
+450, 1960, 10129, Bombay Medical Council, Wadhwani Metharam Pesuram, null
+451, 1960, 10129, Madras Medical Council, Ratnavati Miss. Challa, C Surya Narayana
+452, 1960, 10129, West Bengal Medical Council, Bonner Muriel V, null
+453, 1960, 1013, Hyderabad Medical Council, Bansilal Vigg, Kushi Ram Vigg
+454, 1960, 1013, Madras Medical Council, Paul Glbert E, A A Paul
+455, 1960, 1013, Mysore Medical Council, Putte Bhatta N V, Venkatanarayana Bhatta
+456, 1960, 1013, Orissa Council of Medical Registration, Sekhri Padma, null
+457, 1960, 1013, Travancore Cochin Medical Council Trivandrum, Mathew Chirakadavil Paul, C M Paul
+458, 1960, 10130, Bombay Medical Council, Chidgupkar Bhoj Pandhari Nath, null
+459, 1960, 10130, Madras Medical Council, Santhanam Coimbatore Narasimha, C V Narasimha Iyengar
+460, 1960, 10130, West Bengal Medical Council, Majumdar Dineschandra, null
+461, 1960, 10131, Bombay Medical Council, Gokhale Gangadhar Vishnu, null
+462, 1960, 10131, Madras Medical Council, Krishna Pishraoti Sukapurath Pishparath, K M Vasudevan Nambudiri
+463, 1960, 10131, West Bengal Medical Council, Ahmedur Rahman, null
+464, 1960, 10132, Bombay Medical Council, Sarda Kailash Chandra Ramakant, null
+465, 1960, 10132, Madras Medical Council, Ranjani Miss. Nagaswamy Ranguja, S Nagaswamy
+466, 1960, 10133, Bombay Medical Council, Hiremath Vilasashkar Rudrayya, null
+467, 1960, 10133, Madras Medical Council, Jayalakshmi Miss. Thangavel, S O Thangavel Nadar
+468, 1960, 10133, West Bengal Medical Council, Abdul Rahman Miah, null
+469, 1960, 10134, Bombay Medical Council, Raghuvanshi Hanumantsingh Anatsingh, null
+470, 1960, 10134, Madras Medical Council, Mukambu Miss. Bindur, B Putte Naik
+471, 1960, 10134, West Bengal Medical Council, Guha Rasranjan, null
+472, 1960, 10135, Bombay Medical Council, Nanji Miss. Tehmi Ruttonji, null
+473, 1960, 10135, Madras Medical Council, Sadasiva Rao Kasaraneni, Sastrulu
+474, 1960, 10135, West Bengal Medical Council, Mandal Pasupati Bsc, null
+475, 1960, 10136, Bombay Medical Council, Gogte Bhagwan, null
+476, 1960, 10136, Madras Medical Council, Sarojini R Mrs., A Ponnuswammyh
+477, 1960, 10136, West Bengal Medical Council, Hajra Amalendu, null
+478, 1960, 10137, Bombay Medical Council, Kothari Pranlal Chunilal, null
+479, 1960, 10137, Madras Medical Council, Ramani Miss. Koladi Mutheri, P G V Rajah
+480, 1960, 10137, West Bengal Medical Council, Basu Sudhindranath, null
+481, 1960, 10138, Bombay Medical Council, Banker Dushyant Dhiraj Lal, null
+482, 1960, 10138, Madras Medical Council, Bracken Heron Anthony, M J Bracken
+483, 1960, 10138, West Bengal Medical Council, Barmanpramanik Jogeshchandra, null
+484, 1960, 10139, Bombay Medical Council, Mehta Mrs. Kusum Janak, null
+485, 1960, 10139, West Bengal Medical Council, Mukhopadhyay Bijaychandra, null
+486, 1960, 1014, Andhra Pradesh Medical Council, Kasina Chinnamraju, Buli Seshaiah
+487, 1960, 1014, Assam Medical Council, Bhattacharjee Prabhat Chandra, Brojanath Bhattacharjee
+488, 1960, 1014, Bihar Medical Council, Roy Jitendra Mohan, null
+489, 1960, 1014, Hyderabad Medical Council, Bhole Dinker Raghunath, Raghunath Bhole
+490, 1960, 1014, Mysore Medical Council, Sampathiyengar S G, N Gopala Krishna Iyengar
+491, 1960, 1014, Orissa Council of Medical Registration, Saha Bela Miss., null
+492, 1960, 1014, Travancore Cochin Medical Council Trivandrum, Gpalakrishnan Padmanabhan, T K Padmanabhan
+493, 1960, 10140, Bombay Medical Council, Ministry Miss. Soona Jamshedji, null
+494, 1960, 10140, Madras Medical Council, Ramachandra Rao Chitturu , C Somalingam
+495, 1960, 10140, West Bengal Medical Council, Mitra Subodhchandra, null
+496, 1960, 10141, Bombay Medical Council, Solomon Miss. Abigail, null
+497, 1960, 10141, Madras Medical Council, Harjeevan Shetty Kolyar, M Ramanna Shetty
+498, 1960, 10142, Bombay Medical Council, Joglekar Vasudev Hari, null
+499, 1960, 10142, Madras Medical Council, Andrews Manual John, Rev Manual
+500, 1960, 10142, West Bengal Medical Council, Bagchi Sardanath, null
+501, 1960, 10143, Bombay Medical Council, Merchant Surendra Mani Lal, null
+502, 1960, 10143, Madras Medical Council, Subba Rao Vaka, V Sampathe Rao
+503, 1960, 10143, West Bengal Medical Council, Ghosh Jitendra Nath, null
+504, 1960, 10144, Bombay Medical Council, Vora Dharamdas Damodaradas, null
+505, 1960, 10144, Madras Medical Council, Rajasekhara Aiyar Krishna Sastry, Krishna Sastry
+506, 1960, 10144, West Bengal Medical Council, Ukil Sukumar, null
+507, 1960, 10145, Bombay Medical Council, Shende Shriniwas Trimbak, null
+508, 1960, 10145, Madras Medical Council, Syed Zainalabindin, Syed Shemshuddin
+509, 1960, 10145, West Bengal Medical Council, Ray Bhabeschandra, null
+510, 1960, 10146, Bombay Medical Council, Gandhi Miss. Kamal Ranchhodas, null
+511, 1960, 10146, West Bengal Medical Council, Ray Pulinbihari, null
+512, 1960, 10147, Bombay Medical Council, Sheth Miss. Sarla Laxmi Chand, null
+513, 1960, 10147, Madras Medical Council, Ramachandran Pandalai Krishnan, Vishnu Govindan Nambudiri
+514, 1960, 10147, West Bengal Medical Council, Basu Sudhirchandra, null
+515, 1960, 10148, Bombay Medical Council, Mansan Mohammae Abdul, null
+516, 1960, 10148, West Bengal Medical Council, Ash Matilal, null
+517, 1960, 10149, Bombay Medical Council, Mankad Chaman Lal Bajibhai, null
+518, 1960, 10149, Madras Medical Council, Venkata Reddy Suravaram, S Ranga Reddy
+519, 1960, 10149, West Bengal Medical Council, Basu Sudhirkrishna, null
+520, 1960, 1015, Andhra Pradesh Medical Council, Mitnala Nagaraja, M Timmayya
+521, 1960, 1015, Assam Medical Council, Chaudhary Abdus Shahid, null
+522, 1960, 1015, Bihar Medical Council, Das Dhirendra Nath, null
+523, 1960, 1015, Bombay Medical Council, Thakor Manjulal Jadavrai, null
+524, 1960, 1015, Hyderabad Medical Council, Gunjutikar Gyan Chand, Shivalingappa
+525, 1960, 1015, Mysore Medical Council, Kodandaraman M, M Raghunatha Mudaliar
+526, 1960, 1015, Orissa Council of Medical Registration, Sahu Chakradhar, null
+527, 1960, 1015, Travancore Cochin Medical Council Trivandrum, Sahadevan Nambanath Krishnan, Nambanath Krishnan
+528, 1960, 10150, Bombay Medical Council, Eatterpaker Miss. Keshar, null
+529, 1960, 10150, Madras Medical Council, Chidambaram Muthalagappa, N M A Muthalga Chettiar
+530, 1960, 10150, West Bengal Medical Council, Mandal Sudhakrishna, null
+531, 1960, 10151, Bombay Medical Council, Roy Chandrasen Sunder Rao, null
+532, 1960, 10151, Madras Medical Council, Shillong Donald Wilfred, Dr. J H Shillong
+533, 1960, 10151, West Bengal Medical Council, Nahdyopadhyay Ashok Chandra, null
+534, 1960, 10152, Bombay Medical Council, Veval Jalejar Jehangirji, null
+535, 1960, 10152, Madras Medical Council, Appachoo Patamda Ponappa, P Ponappa
+536, 1960, 10153, Bombay Medical Council, Dhondi Furrokh Bapuji, null
+537, 1960, 10153, Madras Medical Council, Tirumala Rao Dronam Raju, D Venkataramana Rao
+538, 1960, 10153, West Bengal Medical Council, Dewan Khagendrakisor, null
+539, 1960, 10154, Bombay Medical Council, Talavlikar Shanta Ram Gopal, null
+540, 1960, 10154, Madras Medical Council, Lakshminarasimha Rao Thota, T Venkata Rao
+541, 1960, 10154, West Bengal Medical Council, Sen Binaymohan, null
+542, 1960, 10155, Bombay Medical Council, Vyas Pravinkumar Bhukhan Das, null
+543, 1960, 10155, Madras Medical Council, Sambandam Valluvakudi Rathansabapthy, N Rathnasabapathy Pillai
+544, 1960, 10156, Bombay Medical Council, Date Gangadhar Laxman, null
+545, 1960, 10156, Madras Medical Council, Kamala Mrs. Rajagopal Prathivadibayamka, P Narasimhachar
+546, 1960, 10156, West Bengal Medical Council, Datta Sudhansu Kumar, null
+547, 1960, 10157, Madras Medical Council, Rachel Chacko 9mrs, P C Thomas
+548, 1960, 10157, West Bengal Medical Council, Chattopadhyay Bhola Nath, null
+549, 1960, 10158, Madras Medical Council, Malathy Miss. Marath, null
+550, 1960, 10158, West Bengal Medical Council, De Kantichandra, null
+551, 1960, 10159, Bombay Medical Council, Wagle Miss. Sushila Ganjanan, null
+552, 1960, 10159, Madras Medical Council, Kalyan Ramaswamy Jiddu, G V Ragaviah
+553, 1960, 10159, West Bengal Medical Council, Ray Suryyakanta, null
+554, 1960, 1016, Andhra Pradesh Medical Council, Choppala Venkata Ratnam, Narasayya
+555, 1960, 1016, Assam Medical Council, Sen Gupta Dwijendranath, null
+556, 1960, 1016, Bihar Medical Council, Lal Kirit Narayan, null
+557, 1960, 1016, Hyderabad Medical Council, Kuchi Bhotla Murthy Sreman Narayan, Markanandeya Shastry Kuchi Bhotla
+558, 1960, 1016, Mysore Medical Council, Mummurthi Conjeevaram, C Murugesha Mudaliar
+559, 1960, 1016, Orissa Council of Medical Registration, Biswal Kalpataru, null
+560, 1960, 1016, Travancore Cochin Medical Council Trivandrum, Sasilekha Sankaran Nadar, M Sankaran Nadar
+561, 1960, 10160, Bombay Medical Council, Shah Kantilal Chhota Lal, null
+562, 1960, 10160, Madras Medical Council, Venkataraman Krishnamurti, A S Krishnamurti Sastry
+563, 1960, 10160, West Bengal Medical Council, Saha Nibaranchandra, null
+564, 1960, 10161, Madras Medical Council, Smith Cecil Percival Leval, A L Smith
+565, 1960, 10161, West Bengal Medical Council, Sen Prabhaskumar, null
+566, 1960, 10162, Bombay Medical Council, Joshi Ramchandra Krishnaji, null
+567, 1960, 10162, Madras Medical Council, Macpherson Norman Stewart, S Macpherson
+568, 1960, 10162, West Bengal Medical Council, Saha Sundargopal, Mahendra Nath Saha
+569, 1960, 10163, Bombay Medical Council, Master Thakordas Bhagawan Das, null
+570, 1960, 10163, Madras Medical Council, Gopala Rao Jumpala, Narayanamurthy
+571, 1960, 10163, West Bengal Medical Council, Mandal Bholanath, null
+572, 1960, 10164, Bombay Medical Council, Kirpalani Lachhman Uttamchand, null
+573, 1960, 10164, Madras Medical Council, Ranganatham Adayar, Jagadeesa Mudaliar
+574, 1960, 10165, Bombay Medical Council, Advani Govind Radha Krishna, null
+575, 1960, 10165, Madras Medical Council, Mahadevan Vythisubramanya, null
+576, 1960, 10165, West Bengal Medical Council, Bhattacharyya Lalmohan, null
+577, 1960, 10166, Bombay Medical Council, Manekshaw Rusi Jamshed, null
+578, 1960, 10166, Madras Medical Council, Lakshmanacharyulu Tamirisa, T Venkatacharyalu
+579, 1960, 10167, Bombay Medical Council, Sholapurkar Krishna Bhim Rao, null
+580, 1960, 10167, Madras Medical Council, Gibson Duncan Leonard, Major J E Gibson
+581, 1960, 10167, West Bengal Medical Council, Chaudhuri Asokchandra, null
+582, 1960, 10168, Bombay Medical Council, Castelino Joseph E, null
+583, 1960, 10168, Madras Medical Council, Vedamani Miss. Chintagunta, G Gnanaiah
+584, 1960, 10168, West Bengal Medical Council, Dalbahadur Rai, null
+585, 1960, 10169, Bombay Medical Council, Hate Shashi Kant Dolaray, null
+586, 1960, 10169, West Bengal Medical Council, Basu Santipriya, null
+587, 1960, 1017, Andhra Pradesh Medical Council, Khan Basheer, Kasim Khan
+588, 1960, 1017, Assam Medical Council, Bora Ramchandra, null
+589, 1960, 1017, Bihar Medical Council, Ghosh Kalyan Krishna, null
+590, 1960, 1017, Bombay Medical Council, Bharucha Navroji Hormasji, null
+591, 1960, 1017, Hyderabad Medical Council, Jagindar Digumber Rao, Vaman Rao Jagindar
+592, 1960, 1017, Madras Medical Council, Shukoor Mohamed Abdul, Mohamed Peer
+593, 1960, 1017, Travancore Cochin Medical Council Trivandrum, Abhayabika Miss. Kamalakshy Amma, G Sankaran Thampy
+594, 1960, 1017, West Bengal Medical Council, Adhikari Lalitmohan, null
+595, 1960, 10170, Bombay Medical Council, Irani Miss. Goher Rustom, null
+596, 1960, 10170, West Bengal Medical Council, Gangopadhyay Susilchandra, null
+597, 1960, 10171, Bombay Medical Council, Tanna Nanji Kanji, null
+598, 1960, 10171, Madras Medical Council, Thomas Kovoor Ninan, K N Thomas
+599, 1960, 10171, West Bengal Medical Council, Chattopadhyay Satijiban, null
+600, 1960, 10172, Bombay Medical Council, Desai Dhireshwar Shankerdas, null
+601, 1960, 10172, Madras Medical Council, Balagangadara Sarma Uppaluri, U Adinarayanamurrh Pantulu
+602, 1960, 10172, West Bengal Medical Council, Mukhopadhyay Maniklal, null
+603, 1960, 10173, Bombay Medical Council, Mehta Khushru Mancherji, null
+604, 1960, 10173, Madras Medical Council, Harinarayan Peddi, P Chalapati Rao
+605, 1960, 10174, Bombay Medical Council, Bhide Mahadeo Govind, null
+606, 1960, 10174, Madras Medical Council, Raghavendra Rao Surat, S Lakshmaji Rao
+607, 1960, 10174, West Bengal Medical Council, Shah Mafizuddin Ahmed, null
+608, 1960, 10175, Bombay Medical Council, Herekar Shaik Dawood Ibrahim, null
+609, 1960, 10175, Madras Medical Council, Thomson James Ford Lt Col, J Thomson
+610, 1960, 10175, West Bengal Medical Council, Sanyal Narayanchandra, null
+611, 1960, 10176, Bombay Medical Council, Loombanmalva Ram, null
+612, 1960, 10176, Madras Medical Council, Chandravathi Birra, B Venkataramaanayya
+613, 1960, 10176, West Bengal Medical Council, Parhi Narendra Nath, null
+614, 1960, 10177, Madras Medical Council, Ninan Miss. Liela K, K J Ninan
+615, 1960, 10177, West Bengal Medical Council, Chaudhuri Basantakumar, null
+616, 1960, 10178, Bombay Medical Council, Kalokhe Vaman Raghunath, null
+617, 1960, 10178, Madras Medical Council, Roy Kishirode Bihari Captain, K B Roy
+618, 1960, 10179, Bombay Medical Council, Talsania Champak Lal Chunilal, null
+619, 1960, 10179, Madras Medical Council, Krishnavenamma Mrs. Reddy Ojala, B Seshanna Naidu
+620, 1960, 10179, West Bengal Medical Council, Mujibara Rahman, null
+621, 1960, 1018, Andhra Pradesh Medical Council, Vasudava Ramanath, M Vasudava Singh
+622, 1960, 1018, Assam Medical Council, Gogoi Dugdha Nath, null
+623, 1960, 1018, Orissa Council of Medical Registration, Ray Kahntibhushan, null
+624, 1960, 1018, Travancore Cochin Medical Council Trivandrum, Indira Devi C S, C K Sankara Narayanan Ezhuthachan
+625, 1960, 10180, Bombay Medical Council, Shaikh Abdul Rahman A, null
+626, 1960, 10180, Madras Medical Council, Rangachari Nanduri, N Srinivasachari
+627, 1960, 10181, Bombay Medical Council, De Almedia Venancio Bonefacio Xavier, null
+628, 1960, 10181, Madras Medical Council, Dharamvir Goyal, Dr. Prasanna Mal
+629, 1960, 10181, West Bengal Medical Council, Sur Bijaygopal, null
+630, 1960, 10182, Bombay Medical Council, Suryawanshi Vishnu Namdeo Rao, null
+631, 1960, 10182, Madras Medical Council, Venkateswar Chowdary Tripurameni, Subramanyam
+632, 1960, 10183, Bombay Medical Council, Bhat Govind Trimbak, null
+633, 1960, 10183, Madras Medical Council, Reed William Henry Grist Major, Reed William Henry
+634, 1960, 10183, West Bengal Medical Council, De Parimalchandra, null
+635, 1960, 10184, Bombay Medical Council, Shah Virchan Bhaichand, null
+636, 1960, 10184, Madras Medical Council, Fitch Keith Simpson, W J Fitch
+637, 1960, 10184, West Bengal Medical Council, Mandal Bibhutibhushan, null
+638, 1960, 10185, Bombay Medical Council, Manshani Sundar Chellaram, null
+639, 1960, 10185, Madras Medical Council, Rajagopalan Vedam, V Vedam Aiyar
+640, 1960, 10185, West Bengal Medical Council, Sarkar Bhabanicharan, null
+641, 1960, 10186, Madras Medical Council, Audikesavalu Kanianoor Janardhanam, K Janardhanam Naidu
+642, 1960, 10186, West Bengal Medical Council, De Balaichand, null
+643, 1960, 10187, Bombay Medical Council, Trivedi Vishnu Prasad Jagjivandas, null
+644, 1960, 10187, Madras Medical Council, Ellis Gerald Willoughby Vigne, H W Ellis
+645, 1960, 10188, Bombay Medical Council, Antani Fulshankar Girjashankar, null
+646, 1960, 10188, Madras Medical Council, Lockley Miss. Dora Monica, W H Lockley
+647, 1960, 10188, West Bengal Medical Council, Sinha Bhyubanchandra, null
+648, 1960, 10189, Bombay Medical Council, Oza Kamalashankar Ravi Shankar, null
+649, 1960, 10189, Madras Medical Council, Krishna Mohan Rao Kara, K Annava Raju
+650, 1960, 10189, West Bengal Medical Council, Bhaumik Subodhchandra, null
+651, 1960, 1019, Andhra Pradesh Medical Council, Chakka Lakshmi Narayana, Ch Sreeramulu
+652, 1960, 1019, Assam Medical Council, Vieyra Cyril Francis, null
+653, 1960, 1019, Hyderabad Medical Council, Raj Prohit Venkoba Acharya Krishnacharya, Krishna Charya
+654, 1960, 1019, Madras Medical Council, Gibson William Robert, null
+655, 1960, 1019, Mysore Medical Council, Gundappa N P, Narayana Puraneek
+656, 1960, 1019, Orissa Council of Medical Registration, Mukhopadhyay Phanindranath, null
+657, 1960, 1019, Travancore Cochin Medical Council Trivandrum, Abdul Jabbar N, P N Khan
+658, 1960, 10190, Bombay Medical Council, Tolia Vasantri Durlabhji, null
+659, 1960, 10190, Madras Medical Council, Radha Krishnan Kandaswamy, M Kandaswamy Mudaliar
+660, 1960, 10190, West Bengal Medical Council, Mandal Purnachandra, null
+661, 1960, 10191, Bombay Medical Council, Rawal Hari Lal Mohanlal, null
+662, 1960, 10191, Madras Medical Council, Rajaram Dharmapuri, D Govindrajulu Naidu
+663, 1960, 10191, West Bengal Medical Council, Basak Duracharan, null
+664, 1960, 10192, Bombay Medical Council, Dhawle Narayan Ramchandra, null
+665, 1960, 10192, Madras Medical Council, Sethu Bai Miss. Ragaswami, Rao Bahadur K Ramgaswami
+666, 1960, 10192, West Bengal Medical Council, Pain Abhaycharan, null
+667, 1960, 10193, Bombay Medical Council, Nanavati Mrs. Sharad, null
+668, 1960, 10193, Madras Medical Council, Sanjiva Rao Gedam Setti, G Papparao Naidu
+669, 1960, 10193, West Bengal Medical Council, Sanyal Prabhatchandra, null
+670, 1960, 10194, Bombay Medical Council, Pinto John Reginald, null
+671, 1960, 10194, Madras Medical Council, Narayanan Gobichettipalayam Rathnaswami, G N Rathnaswami
+672, 1960, 10194, West Bengal Medical Council, Nandi Saileschandra, null
+673, 1960, 10195, Madras Medical Council, Vaman Rao Gopinath Balaji, P Ekambara Rao
+674, 1960, 10195, West Bengal Medical Council, Bandyopadhyay Sukritimaya, null
+675, 1960, 10196, Bombay Medical Council, Sah Pritamkumar Mani Lal, null
+676, 1960, 10196, Madras Medical Council, Vimala Tekke Curupath, A R Poduval
+677, 1960, 10196, West Bengal Medical Council, Basu Bimalbhushan, null
+678, 1960, 10197, Bombay Medical Council, Shah Bhagvatlal Mangal Das, null
+679, 1960, 10197, Madras Medical Council, Krishna Rao Nandella Venkata, N Subbaiah
+680, 1960, 10197, West Bengal Medical Council, Chakrabarti Baidyanath, null
+681, 1960, 10198, Bombay Medical Council, Patel Ram Bhai Becherbhai, null
+682, 1960, 10198, West Bengal Medical Council, Mukhopadhyay Khagendranath, null
+683, 1960, 10199, Bombay Medical Council, Kewalramanee Tara Chand Dayaldas, null
+684, 1960, 10199, Madras Medical Council, Jackson Brian George, S G Jackson
+685, 1960, 10199, West Bengal Medical Council, Ghosh Kshetragopal, null
+686, 1960, 101/F, Bombay Medical Council, Tresiddar Alfred Geddes C I E Lt Col, null
+687, 1960, 101/RR, Bombay Medical Council, Balkrishna Rao Pejavar, null
+688, 1960, 102, Andhra Pradesh Medical Council, Koka Krishna Rao, K Chalapathi Rao
+689, 1960, 102, Assam Medical Council, Datta Sailendra Chandra, null
+690, 1960, 102, Bihar Medical Council, Stilwell Effie, null
+691, 1960, 102, Hyderabad Medical Council, Rizvi Syed Ahmed, Syed Amin R Azvi
+692, 1960, 102, Madhya Pradesh Medical Council, Maheshwari Kalyan Mal, Kanhiya Lal Maheshwari
+693, 1960, 102, Mysore Medical Council, Nagamma B S, B Ram Rao
+694, 1960, 102, Rajasthan Medical Council, Joshi Paresh Ram, Manse Ram Joshi
+695, 1960, 102, Travancore Cochin Medical Council Trivandrum, Nanoo Pillai Gopala Pillai Panchamveetti, Gopala Pillai
+696, 1960, 102, Vidharba Medical Council, Naidu Kalahstri Jagat Kesheorao, Kalahstri Sreeman Narayana
+697, 1960, 1020, Andhra Pradesh Medical Council, Abdul Salam, S K Madar Saheb
+698, 1960, 1020, Assam Medical Council, Nandi Prafulla Kumar, null
+699, 1960, 1020, Hyderabad Medical Council, Manohar Rao, Neel Kantt Rao
+700, 1960, 1020, Mysore Medical Council, Shaik Ibrahim S K, Abdul Kahalaque
+701, 1960, 1020, Orissa Council of Medical Registration, Sen Gupta Sunil Kumar, null
+702, 1960, 1020, Travancore Cochin Medical Council Trivandrum, Lily Nelliparambil Raman Kutty, M R Raman Kutty
+703, 1960, 10200, Madras Medical Council, O`Malley Antony Bernard, F O`Malley
+704, 1960, 10200, West Bengal Medical Council, Das Dulal Chandra, null
+705, 1960, 10201, Madras Medical Council, Chandrasekharan Kumaraswami Saidapet, Dr. K S Appu Mudaliar
+706, 1960, 10201, West Bengal Medical Council, Rudra Bhupendranarayan, null
+707, 1960, 10202, Madras Medical Council, Hanumanutha Rao Vadali, V Venkateeswarlu
+708, 1960, 10202, West Bengal Medical Council, Mukhpadhyay Tarapada, null
+709, 1960, 10203, Madras Medical Council, Mariamma Krishna Murthi Mrs., Rev. Thomas Thozhupadan
+710, 1960, 10204, Madras Medical Council, Jagannath Rao Hurli Madhu Rao, Madhur Rao
+711, 1960, 10204, West Bengal Medical Council, Chakrabarti Dhirendramohan, null
+712, 1960, 10205, Madras Medical Council, Veera Pratap Kumar Yelamanchi, Kanthaiah
+713, 1960, 10205, West Bengal Medical Council, Bhattacharyya Upendranath, null
+714, 1960, 10206, Madras Medical Council, Balachandran Govinda, B Govindan
+715, 1960, 10206, West Bengal Medical Council, Deb Phanindranarayan, null
+716, 1960, 10207, Madras Medical Council, Venkata Reddy Wathada, W Swamy Naidu
+717, 1960, 10207, West Bengal Medical Council, Majumdar Sasirkanti, null
+718, 1960, 10208, Madras Medical Council, Tirumala Rao Chaganti, C Sambaiya Pantulu
+719, 1960, 10208, West Bengal Medical Council, Ray Biswanath, null
+720, 1960, 10209, Madras Medical Council, Burghall Frank Wilton, C Burgshall
+721, 1960, 10209, West Bengal Medical Council, Ray Chaudhuri Ajitsankar, null
+722, 1960, 1021, Andhra Pradesh Medical Council, Mohamed Nuruddin, Md Badsha Mohddin
+723, 1960, 1021, Assam Medical Council, Ray Jatindra Narayan, null
+724, 1960, 1021, Bihar Medical Council, Malick Pramathanath, null
+725, 1960, 1021, Bombay Medical Council, Bakshi Narsingprasad Amritlal, null
+726, 1960, 1021, Hyderabad Medical Council, Komanduri Kutumba Narayancharulu, Rangacharyulu Komadduri
+727, 1960, 1021, Mysore Medical Council, Subbe Gowda G M, Manje Gowda
+728, 1960, 1021, Orissa Council of Medical Registration, Ghosh Nirmala Miss., null
+729, 1960, 1021, Travancore Cochin Medical Council Trivandrum, Sudhakaran Thoompail Kochitty Kochitty, null
+730, 1960, 10210, Bombay Medical Council, Kamat Vasant Anant, null
+731, 1960, 10210, Madras Medical Council, Subramaniam Coimbatore Surya Narayana Ven, Dr. C Suuyanarayana Sarma
+732, 1960, 10211, Bombay Medical Council, Mehta Thakershi Khushaldas, null
+733, 1960, 10211, Madras Medical Council, Lloyd D`Silva Joseph, P L Lloyd D`Silva
+734, 1960, 10211, West Bengal Medical Council, Datta Jatindranath, null
+735, 1960, 10212, Bombay Medical Council, Vadhar Amritlal Laxmi Chand, null
+736, 1960, 10212, Madras Medical Council, Mohamed Jaffer Khan, C Abdul Rasheed Khan
+737, 1960, 10212, West Bengal Medical Council, Ray Pasupati, null
+738, 1960, 10213, Madras Medical Council, Balakrishnan Elumalai, N Elumalai Chetty
+739, 1960, 10213, West Bengal Medical Council, Adhikari Jatindramohan, null
+740, 1960, 10214, Bombay Medical Council, Merchant Gopal Varjivandas, null
+741, 1960, 10214, Madras Medical Council, Palani Palyam Murugiah Chetty, P V Murugiah Chettiar
+742, 1960, 10214, West Bengal Medical Council, Dasupta Atulchandra, null
+743, 1960, 10215, Bombay Medical Council, Chinwalla Hooseni Goolamally, null
+744, 1960, 10215, Madras Medical Council, Prakash Mahavir, L Dhanpat Rai
+745, 1960, 10215, West Bengal Medical Council, Sengupta Jyotiranjan, null
+746, 1960, 10216, Bombay Medical Council, Ranade Madhusudan Atmaram, null
+747, 1960, 10216, Madras Medical Council, Lazarus Hope Diana, Dr. J Lazarus
+748, 1960, 10216, West Bengal Medical Council, Biswas Jitendranath, null
+749, 1960, 10217, Bombay Medical Council, Balkur Vasantnarayan Krishnappa Bhandari, null
+750, 1960, 10217, Madras Medical Council, Sivakolundu Saidapet Pachai, Sp Aiyaswami
+751, 1960, 10218, Bombay Medical Council, Kulkarni Narayan Vaman Rao, null
+752, 1960, 10218, Madras Medical Council, Bhaskara Reddy Du Vuru, D Chenga Reddy
+753, 1960, 10218, West Bengal Medical Council, Saha Dhirendramohan, null
+754, 1960, 10219, Madras Medical Council, Ramachander Medisetty, Rao Sahib M Venkataswamy Naidu
+755, 1960, 10219, West Bengal Medical Council, Bashiruddin Ahmed, null
+756, 1960, 1022, Andhra Pradesh Medical Council, Sugnanam Jagannayakulu, S Venkata Ranga Rao
+757, 1960, 1022, Assam Medical Council, Hazarika Muhibuddin Ahmed, null
+758, 1960, 1022, Bihar Medical Council, Lahiri Nalinaksya, null
+759, 1960, 1022, Hyderabad Medical Council, Laxmi Narsimha Rao, T Murthianjaya Rao
+760, 1960, 1022, Madras Medical Council, Muttayya Devar Vedanayagam Asirvadam, Vedanayagam Devar
+761, 1960, 1022, Mysore Medical Council, Aswath B G, B Gaviappa
+762, 1960, 1022, Travancore Cochin Medical Council Trivandrum, Ramachandran Kalyat Thazhathu Veettil, A Kunhappa Nambiyar
+763, 1960, 10220, Madras Medical Council, Mathew Cherayil John, C M John
+764, 1960, 10220, West Bengal Medical Council, De Satinath, null
+765, 1960, 10221, Bombay Medical Council, Ramsingani Gopal Das Anandram, null
+766, 1960, 10221, Madras Medical Council, Ramadas Velamati, V Sreemannarayanamurty
+767, 1960, 10221, West Bengal Medical Council, Mukhjopadhyay Priyagopal, null
+768, 1960, 10222, Madras Medical Council, Sambasiva Rao Koka, Dr. K Chalapathi Rao
+769, 1960, 10222, West Bengal Medical Council, Bandhopadhyaya Balaram, null
+770, 1960, 10223, Madras Medical Council, Jacob Albert Wilson, J E Jacob
